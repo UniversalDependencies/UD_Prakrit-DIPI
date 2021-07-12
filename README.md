@@ -1,7 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD Prakrit-DIPI (Digitising Imperial Prakrit Inscriptions) is a UD-annotated corpus of the Ashokan Prakrit inscriptions and edicts (parallel texts written in various dialects) representing an early stage of Middle Indo-Aryan. This corpus aims to facilitate comparative work on the Ashokan dialects with the help of new computational methods.
 
 # Introduction
 
@@ -10,7 +9,7 @@
 
 # Acknowledgments
 
-...
+The corpus has been hand-annotated by Aryaman Arora and Adam Farris.
 
 ## References
 
@@ -21,7 +20,6 @@
 
 * 2021-11-15 v2.9
   * Initial release in Universal Dependencies.
-
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
