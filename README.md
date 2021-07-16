@@ -1,6 +1,6 @@
 # Summary
 
-UD Prakrit-DIPI (Digitising Imperial Prakrit Inscriptions) is a UD-annotated corpus of the Ashokan Prakrit inscriptions and edicts (parallel texts written in various dialects) representing an early stage of Middle Indo-Aryan. This corpus aims to facilitate comparative work on the Ashokan dialects with the help of new computational methods.
+**UD Prakrit-DIPI** (*Digitising Imperial Prakrit Inscriptions*) is a UD-annotated corpus of the Ashokan Prakrit inscriptions and edicts (parallel texts written in various dialects) representing an early stage of Middle Indo-Aryan. This corpus aims to facilitate comparative work on the Ashokan dialects with the help of new computational methods.
 
 # Introduction
 
