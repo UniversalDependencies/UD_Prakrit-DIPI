@@ -6,6 +6,8 @@
 
 The [Edicts of Ashoka](https://en.wikipedia.org/wiki/Edicts_of_Ashoka) are a series of inscriptions put up around South Asia under the reign of Ashoka (r. 268--232 BCE). The language of the edicts, an early form of Middle Indo-Aryan, shows dialectal variation that correspond with some regional variation in modern Indo-Aryan languages. For example, the Northwestern inscriptions are conservative and written in Kharoshthi script, similar to later Gandhari Prakrit which is thought to be the ancestor of many "Dardic" languages. The other inscriptions are broadly of a Western dialect area or Eastern dialect area, and are written in the Brahmi script. Studying the regional variation and grammatical features of these lects is important for Indo-Aryan historical linguistics---hence the creation of this corpus.
 
+Raw text is sourced from [The Ashoka Project on the Bibliotheca Polyglotta](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=14), managed by the University of Oslo and licensed under GNU GPLv3 (which we respect in this treebank). Since this a small treebank, the whole corpus is in one `conllu` file. The inscription source and location is noted for each sentence.
+
 # Acknowledgments
 
 The corpus has been hand-annotated by Aryaman Arora and Adam Farris.
