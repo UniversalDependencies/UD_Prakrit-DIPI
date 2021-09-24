@@ -54,6 +54,7 @@ for location in csvs:
                 # input()
 
                 row = row[:10]
+                row = [unicodedata.normalize('NFC', x) for x in row]
 
                 # sort feats (split string into list separated by |, sort, then rejoin with |)
                 row[5] = '|'.join(sorted(row[5].split('|')))
@@ -81,7 +82,7 @@ for location in csvs:
                 
                 # cleanup: remove whitespace on either side, _ in empty cells, unicode composed forms
                 row = [x.strip() for x in row]
-                row = [unicodedata.normalize('NFC', x) if x else '_' for x in row]
+                row = [x if x else '_' for x in row]
 
                 # conllu-ize and add to string
                 doc += '\t'.join(row) + '\n'
@@ -91,4 +92,4 @@ for location in csvs:
 
 # write final output
 with open('pra_dipi-ud-train.conllu', 'w') as fout:
-    fout.write(result.strip('\n'))
+    fout.write(result.strip('\n') + '\n')
