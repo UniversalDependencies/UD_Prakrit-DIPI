@@ -238,6 +238,98 @@
 9	pasu	_	NOUN	_	Compound=Yes|Gender=Masc	10	compound	_	Gloss=cattle
 10	manusānaṃ	manusa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	Gloss=of-men
 
+# sent_id = girnar-3-1
+# text = Devānampiyo Piyadasi rājā evam āha
+# orig = Devānampiyo Piyadasi r[ā]jā evam āha
+1-2	Devānaṃpiyo	_	_	_	_	_	_	_	_
+1	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+2	piyo	piya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod:desc	_	_
+3-4	Piyadasi	_	_	_	_	_	_	_	_
+3	piya	piya	ADJ	_	Compound=Yes|Gender=Masc	4	amod	_	_
+4	dasi	dasin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod:desc	_	_
+5	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Orig=r[ā]jā
+6	evam	evam	PART	_	_	7	advmod	_	_
+7	āha	āha	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = girnar-3-2
+# text = dbādasa-vāsābhisitena mayā idaṃ āñapitaṃ
+# orig = dbādasa-vāsābhisitena mayā idaṃ āñ[a]pitaṃ
+1-3	dbādasa-vāsābhisitena	_	_	_	_	_	_	_	_
+1	dbādasa	dbādasa	NUM	_	Compound=Yes|NumType=Card	2	nummod	_	_
+2	vāsa	vāsa	NOUN	_	Compound=Yes|Gender=Masc	3	obl:tmod	_	_
+3	bhisitena	abhisiñca	VERB	_	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
+4	mayā	aham	PRON	_	Case=Ins|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	idaṃ	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	obj	_	_
+6	āñapitaṃ	āñā	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Orig=āñ[a]pitaṃ
+
+# sent_id = girnar-3-3
+# text = sarvata vijite mama yutā ca rājūke ca prādesike ca paṃcasu paṃcasu vāsesu anusaṃyānaṃ niyātu etāyeva athāya imāya dhaṃmānusastiya yathā añāya pi kaṃmāya
+# orig = / sarvata vijite mama yutā ca rājūke ca prādesike ca paṃcasu paṃcasu vāsesu anusaṃ/y[ā]na[ṃ n]iyātu etāyeva athāya imāya dhaṃmānusastiya yathā añā/ya pi kaṃmāy[a]
+1	sarvata	sarvata	ADV	_	AdvType=Loc	14	advmod:lmod	_	_
+2	vijite	vijita	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
+3	mama	aham	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+4	yutā	yuta	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	_
+5	ca	ca	CCONJ	_	_	4	cc	_	_
+6	rājūke	rājūka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
+7	ca	ca	CCONJ	_	_	6	cc	_	_
+8	prādesike	prādesika	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
+9	ca	ca	CCONJ	_	_	8	cc	_	_
+10	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|NumType=Card|Number=Plur	12	nummod	_	_
+11	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|NumType=Card|Number=Plur	10	compound:redup	_	_
+12	vāsesu	vāsa	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	14	obl:tmod	_	_
+13	anusaṃyānaṃ	anusaṃyāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl:lmod	_	Orig=anusaṃy[ā]na[ṃ]
+14	niyātu	niyā	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Orig=[n]iyātu
+15-16	etāyeva	_	_	_	_	_	_	_	_
+15	etāya	etad	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	_
+16	eva	eva	PART	_	_	15	advmod:emph	_	_
+17	athāya	atha	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+18	imāya	idam	PRON	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
+19-20	dhaṃmānusastiya	_	_	_	_	_	_	_	_
+19	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	20	nmod	_	_
+20	anusastiya	anusasti	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	appos	_	_
+21	yathā	yathā	PART	_	_	24	cc	_	_
+22	añāya	aña	PRON	_	Case=Dat|Gender=Neut|Number=Sing	24	det	_	_
+23	pi	pi	ADV	_	_	22	advmod:emph	_	_
+24	kaṃmāya	kaṃma	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	20	conj	_	Orig=kaṃmāy[a]
+
+# sent_id = girnar-3-4
+# text = sādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-samaṇānaṃ sādhu dānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
+# orig = [s]ādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-/samaṇānaṃ sādh[u d]ānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
+1	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Orig=[s]ādhu
+2	matari	matar	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+3	ca	ca	CCONJ	_	_	2	cc	_	_
+4	pitari	pitar	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	2	conj	_	_
+5	ca	ca	CCONJ	_	_	4	cc	_	_
+6	susrūsā	susrūsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+7-9	mitra-saṃstuta-ñātīnaṃ	_	_	_	_	_	_	_	_
+7	mitra	mitra	NOUN	_	Compound=Yes|Gender=Masc	9	conj	_	_
+8	saṃstuta	saṃstuta	ADJ	_	Compound=Yes	9	conj	_	_
+9	ñātīnaṃ	ñāti	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+10-11	bāmhaṇa-samaṇānaṃ	_	_	_	_	_	_	_	_
+10	bāmhaṇa	bāmhaṇa	NOUN	_	Compound=Yes|Gender=Masc	11	conj	_	_
+11	samaṇānaṃ	samaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	_
+12	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	Orig=sādh[u]
+13	dānaṃ	dāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	Orig=[d]ānaṃ
+14	prāṇānaṁ	prāṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+15	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+16	anāraṃbho	anāraṃbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+17	apavyayatā	apavyayatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+18	apabhāḍatā	apabhāḍatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	conj	_	_
+19	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
+
+# sent_id = girnar-3-5
+# text = parisa pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca
+# orig = / parisa pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca
+1	parisā	parisad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	pi	pi	ADV	_	_	1	advmod	_	_
+3	yute	yuta	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
+4	āñapayisati	āñā	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+5	gaṇanāyaṃ	gaṇa	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	_
+6	hetuto	hetuto	ADV	_	AdvType=Man	5	advmod	_	_
+7	ca	ca	CCONJ	_	_	6	cc	_	_
+8	vyaṃjanato	vyaṃjanato	ADV	_	AdvType=Man	6	conj	_	_
+9	ca	ca	CCONJ	_	_	8	cc	_	_
+
 # sent_id = shahbazgarhi-1-1
 # text = aya dhrama-dipi Devanapriasa raño likhapitu
 # orig = [aya] dhrama-dipi Devanapriasa raño likhapitu
