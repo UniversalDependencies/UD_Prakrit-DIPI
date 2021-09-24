@@ -1,0 +1,117 @@
+ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,GLOSS,ETYMO,CDIAL,JAMBU
+text = iy[aṃ] dhaṃma-lipī Devānaṃpriyena Priyadasinā rāña lekh[ā]pitā,,,,,,,,,,,,,
+1,iyaṃ,iyaṃ,DET,_,Case=Nom|Gender=Fem|Number=Sing|PronType=Dem,3,det,_,Gloss=this|Orig=iy[aṃ],this.ɴᴏᴍ.ꜰ.sɢ,iyáṃ,587,link
+2-3,dhaṃma-lipī,_,_,_,_,_,_,_,_,rescript_on_morality:ɴᴏᴍ.ꜰ.sɢ,_,_,_
+2,dhaṃma,dhaṃma,NOUN,_,Compound=Yes|Gender=Masc,3,compound,_,Gloss=morality,_,dʰárma-,6753,link
+3,lipī,lipi,NOUN,_,Case=Nom|Gender=Fem|Number=Sing,9,obj,_,Gloss=rescript,_,lipi-,11058,link
+4-5,Devānaṃpriyena,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɪɴsᴛ.ᴍ.sɢ,_,_,_
+4,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,5,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+5,priyena,priya,ADJ,_,Case=Inst|Gender=Masc|Number=Sing,8,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
+6-7,Priyadasinā,_,_,_,_,_,_,_,_,friendly_looking:ɪɴsᴛ.ᴍ.sɢ,_,_,_
+6,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,7,amod,_,Gloss=friendly,_,priyá-,8974,link
+7,dasinā,dasin,ADJ,_,Case=Ins|Gender=Masc|Number=Sing,8,nmod:desc,_,Gloss=looking,_,darśin-,,_
+8,rāña,rājan,NOUN,_,Case=Ins|Gender=Masc|Number=Sing,9,nsubj,_,Gloss=by-king,king:ɪɴsᴛ.ᴍ.sɢ,rā́jan-,10679,link
+9,lekhāpitā,lekhāpaya,VERB,_,"Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass",0,root,_,Gloss=has-been-caused-to-be-written|Orig=lekh[ā]pitā,write.ᴄᴀᴜs:ᴘᴘᴘ:ɴᴏᴍ.ꜰ.sɢ,lēkʰayati,11104,link
+,,,,,,,,,,,,,
+text = [i]dha na kiṃci jīvaṃ ārabhitpā prajūhitavyaṃ,,,,,,,,,,,,,
+1,idha,idha,ADV,_,AdvType=Loc,6,advmod:lmod,_,Gloss=here|Orig=[i]dha,here,idʰá,1605,link
+2,na,na,PART,_,Polarity=Neg,6,advmod:neg,_,Gloss=not,ɴᴇɢ,ná,6906,link
+3,kiṃci,kiṃci,DET,_,PronType=Ind,4,det,_,Gloss=any,any,kíṃcid-,3144,link
+4,jīvaṃ,jīva,NOUN,_,Case=Nom|Gender=Neut|Number=Sing,5,obj,_,Gloss=living-being,living_being:ɴᴏᴍ.ɴ.sɢ,jīvá,5239,link
+5,ārabhitpā,ārabha,VERB,_,VerbForm=Conv,6,advcl,_,Gloss=be-killed-and,kill:ᴄɴᴠ,ā́rabʰatē,1305,link
+6,prajūhitavyaṃ,prajūha,VERB,_,Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass,0,root,_,Gloss=must-be-sacrificed,sacrifice.ᴏᴠᴀ:ɴᴏᴍ.ɴ.sɢ,_,_,_
+,,,,,,,,,,,,,
+text = na ca samājo katavyo,,,,,,,,,,,,,
+1,na,na,PART,_,Polarity=Neg,4,advmod:neg,_,Gloss=no,ɴᴇɢ,ná,6906,link
+2,ca,ca,CCONJ,_,_,1,cc,_,Gloss=and,=ᴄᴏɴᴊ,ca,4533,link
+3,samājo,samāja,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,4,obj,_,Gloss=festival,festival_meeting:ɴᴏᴍ.ᴍ.sɢ,samāja-,13207,link
+4,katavyo,karo,VERB,_,Case=Nom|Gender=Masc|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass,0,root,_,Gloss=must-be-held,do.ᴏᴠᴀ:ɴᴏᴍ.ᴍ.sɢ,kr̩tá-,2814,link
+,,,,,,,,,,,,,
+text = bahukaṃ hi dosaṃ samājamhi pasati Devānaṃpriyo Priyadasi rājā,,,,,,,,,,,,,
+1,bahukaṃ,bahuka,DET,_,Case=Acc|Gender=Masc|Number=Sing,3,det,_,Gloss=much,much:ᴀᴄᴄ.ᴍ.sɢ,bahuka-,9187,link
+2,hi,hi,PART,_,_,1,advmod:emph,_,Gloss=for,=for,hí,,_
+3,dosaṃ,dosa,NOUN,_,Case=Acc|Gender=Masc|Number=Sing,5,obj,_,Gloss=evil,evil:ᴀᴄᴄ.ᴍ.sɢ,dōṣa-,6587,link
+4,samājamhi,samāja,NOUN,_,Case=Loc|Gender=Masc|Number=Sing,5,obl:lmod,_,Gloss=in-festival-meetings,festival_meeting:ʟᴏᴄ.ᴍ.sɢ,samāja-,13207,link
+5,pasati,pasa,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,_,Gloss=sees,see:ᴘʀs.ᴀᴄᴛ.3sɢ,páśyati ,8012,link
+6-7,Devānaṃpriyo,_,_,_,,_,_,_,_,beloved_of_the_Gods:ɴᴏᴍ.ᴍ.sɢ,_,_,_
+6,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,7,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+7,priyo,priya,ADJ,_,Case=Nom|Gender=Masc|Number=Sing,10,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
+8-9,Priyadasi,_,_,_,_,_,_,_,_,friendly_looking:ɴᴏᴍ.ᴍ.sɢ,_,_,_
+8,priya ,priya,ADJ,_,Compound=Yes|Gender=Masc,9,amod,_,Gloss=friendly,_,priyá-,8974,link
+9,dasi,dasin,ADJ,_,Case=Nom|Gender=Masc|Number=Sing,10,nmod:desc,_,Gloss=looking,_,darśin-,,_
+10,rājā,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,5,nsubj,_,Gloss=king,king:ɴᴏᴍ.ᴍ.sɢ,rā́jan-,10679,link
+,,,,,,,,,,,,,
+text = / asti pi tu ekacā samājā sādhu-matā Devānaṃ / priyasa Priyadasino rāño,,,,,,,,,,,,,
+1,asti,as,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,_,Gloss=there-are,be:ᴘʀs.ᴀᴄᴛ.3ᴘʟ,ásti,977,link
+2,pi,pi,ADV,_,_,1,advmod:emph,_,Gloss=also,=ᴇᴍᴘʜ,ápi,485,link
+3,tu,tu,CCONJ,_,_,1,cc,_,Gloss=but,=but,tú,,_
+4,ekacā,ekacā,DET,_,PronType=Ind,5,det,_,Gloss=some,some:ɴᴏᴍ.ᴍ.ᴘʟ,,,_
+5,samājā,samāja,NOUN,_,Case=Nom|Gender=Masc|Number=Plur,1,obj,_,Gloss=festival-meetings,meeting:ɴᴏᴍ.ᴍ.ᴘʟ,samāja-,13207,link
+6-7,sādhu-matā,_,_,_,_,_,,_,_,meritorious_considered:ɴᴏᴍ.ᴍ.ᴘʟ,_,_,_
+6,sādhu,sādhu,ADV,_,AdvType=Man,7,advmod,_,Gloss=meritorious,_,sādhú,13337,link
+7,matā,maṃña,VERB,_,Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,5,acl,_,Gloss=considered,_,mányatē,9857,link
+8-9,Devānaṃpriyasa,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɢᴇɴ.ᴍ.sɢ,_,_,_
+8,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,9,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+9,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,12,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
+10-11,Priyadasino,_,_,_,_,_,_,_,_,friendly_looking:ɢᴇɴ.ᴍ.sɢ,_,_,_
+10,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,11,amod,_,Gloss=friendly,_,priyá-,8974,link
+11,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,12,nmod:desc,_,Gloss=looking,_,darśin-,,_
+12,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,7,nsubj,_,Gloss=by-king,king:ɢᴇɴ.ᴍ.sɢ,rā́jan-,10679,link
+,,,,,,,,,,,,,
+text = pura mahānas[amhi] / Devānaṃpriyasa Priy[a]dasino rāño anudivasaṃ ba/hūni prāṇa-sata-sahasrāni ārabhisu sūpāthāya,,,,,,,,,,,,,
+1,pura,pura,ADV,_,AdvType=Tim,14,advmod:tmod,_,Gloss=formerly,formerly,purás-,8281,link
+2,mahānasamhi,mahānasa,NOUN,_,Case=Loc|Gender=Neut|Number=Sing,14,obl:lmod,_,Gloss=in-the-kitchen|Orig=mahānas[amhi],kitchen:ʟᴏᴄ.ɴ.sɢ,mahānasá-,9943,link
+3-4,Devānaṃpriyasa,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɢᴇɴ.ᴍ.sɢ,_,_,_
+3,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,4,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+4,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
+5-7,Priyadasino,_,_,_,_,_,_,_,_,friendly_looking:ɢᴇɴ.ᴍ.sɢ,_,_,_
+5,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,6,amod,_,Gloss=friendly|Orig=priy[a] ,_,priyá-,8974,link
+6,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=looking,_,darśin-,,_
+7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod:poss,_,Gloss=by-king,king:ɢᴇɴ.ᴍ.sɢ,rā́jan-,10679,link
+8-9,anudivasaṃ,_,_,_,_,_,_,_,_,every_day:ɴᴏᴍ.ɴ.sɢ,_,_,_
+8,anu,anu,DET,_,PronType=Tot,9,det,_,Gloss=every,_,ánu-,,_
+9,divasaṃ,divasa,NOUN,_,Case=Nom|Gender=Neut|Number=Sing,14,obl:tmod,_,Gloss=day,_,divasá-,6333,_
+10,bahūni,bahu,ADJ,_,Case=Nom|Gender=Neut|Number=Plur,13,amod,_,Gloss=many,many:ɴᴏᴍ.ɴ.ᴘʟ,bahú-,9187,link
+11-13,prāṇa-sata-sahasrāni,_,_,_,_,_,_,_,_,hundred_thousands_of_living_being:ɴᴏᴍ.ɴ.ᴘʟ,_,_,_
+11,prāṇa,prāṇa,NOUN,_,Compound=Yes|Gender=Masc,12,nmod,_,Gloss=living,_,prāṇá-,8928,link
+12,sata,sata,NOUN,_,Compound=Yes|Gender=Neut,13,nmod,_,Gloss=being,_,sattvá-,13111,link
+13,sahasrāni,sahasra,NUM,_,Case=Nom|Number=Plur|NumType=Card|Gender=Masc,14,obj,_,Gloss=hundred-thousands-of ,_,sahásra-,13307,link
+14,ārabhisu,ārabha,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbFrom=Fin|Voice=Pass,0,root,_,Gloss=were-killed,kill:ᴀᴏʀ.ᴘᴀss.3ᴘʟ,ā́rabʰatē,1305,link
+15-16,sūpāthāya,_,_,_,_,_,_,_,_,_,_,_,
+15,sūpa,sūpa,NOUN,_,Gender=Masc|Compound=Yes,14,obl,_,Gloss=curry,soup,sū́pa-,13571,link
+16,athāya,atha,ADP,_,Gender=Masc|Number=Sing|Case=Dat,15,case,_,Gloss=for-the-sake-of,for_the_sake_of,ártʰa-,638,link
+,,,,,,,,,,,,,
+text = / se aja yadā ayaṃ dha[ṃ]ma-lip[ī] likhitā tī eva prā/ṇā ārabhare sūpāthāya dvo morā eko mago so pi / mago na dhruvo,,,,,,,,,,,,,
+1,se,sa,CCONJ,_,Case=Dat|Gender=Masc|Number=Sing|PronType=Prs,11,cc,,Gloss=but,but,sá-,12815,link
+2,aja,aja,ADV,_,AdvType=Tim,11,advmod:tmod,_,Gloss=today,today,adyá-,242,link
+3,yadā,yadā,SCONJ,_,PronType=Rel,7,mark,_,Gloss=when,when,yadā́,10409,link
+4,ayaṃ,ayaṃ,DET,_,Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,6,det,_,Gloss=this,this:ɴᴏᴍ.ꜰ.sɢ,ayáṃ,587,link
+5-6,dhaṃma-lipī,_,_,_,_,_,_,_,_,rescript_on_morality:ɴᴏᴍ.ꜰ.sɢ,_,_,_
+5,dhaṃma,dhaṃma,NOUN,_,Compound=Yes|Gender=Masc,6,compound,_,Gloss=morality|Orig=dha[ṃ]ma,_,dʰárma-,6753,link
+6,lipī,lipi,NOUN,_,Case=Nom|Gender=Fem|Number=Sing,7,obj,_,Gloss=rescript|Orig=lip[ī],_,lipi-,11058,link
+7,likhitā,likha,VERB,_,Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass,11,advcl,_,Gloss=is-written,write:ᴘᴘᴘ:ɴᴏᴍ.ꜰ.sɢ,likʰitá,11050,link
+8,tī,ti,NUM,_,Case=Num|Gender=Masc|NumType=Card,10,nummod,_,Gloss=three,3,trí,5994,link
+9,eva,eva,PART,_,_,8,advmod:emph,_,Gloss=only,=ᴇᴍᴘʜ,ēváṃ,2527,link
+10,prāṇā,prāṇa,NOUN,_,Case=Nom|Gender=Masc|Number=Plur,11,obj,_,Gloss=animals,animal:ɴᴏᴍ.ɴ.ᴘʟ,prāṇá-,8928,link
+11,ārabhare,ārabha,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Present|VerbForm=Fin|Voice=Pass,0,root,_,Gloss=are-being-killed,kill:ᴘʀs.ᴘᴀss.3ᴘʟ,ā́rabʰatē,1305,link
+12-13,sūpāthāya,_,_,_,_,_,_,_,_,_,_,_,_
+12,sūpa,sūpa,NOUN,_,Compound=Yes|Gender=Masc,11,obl,_,Gloss=curry,soup,sū́pa-,13571,link
+13,athāya,atha,ADP,_,Case=Dat|Gender=Masc|Number=Sing,12,case,_,Gloss=for-the-sake-of  ,for_the_sake_of,ártʰa-,638,link
+14,dvo,dva,NUM,_,Case=Nom|Gender=Masc|NumType=Card,15,nummod,_,Gloss=two,2,dva-,6648,link
+15,morā,mora,NOUN,_,Case=Nom|Gender=Masc|Number=Plur,11,parataxis,_,Gloss=peacocks,peacock:ɴᴏᴍ.ᴍ.ᴘʟ,*mōra-,9865,link
+16,eko,eka,NUM,_,Case=Nom|Gender=Masc|NumType=Card,17,nummod,_,Gloss=one,1,ḗka-,2462,link
+17,mago,maga,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,15,conj,_,Gloss=deer,deer:ɴᴏᴍ.ᴍ.sɢ,mr̩gá-,10264,link
+18,so,sa,DET,_,Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,20,det,_,Gloss=this,this.ɴᴏᴍ.ᴍ.sɢ,sá-,12815,link
+19,pi,pi,ADV,_,,18,advmod:emph,_,Gloss=even,=ᴇᴍᴘʜ,ápi,485,link
+20,mago,maga,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,15,conj,_,Gloss=deer,deer:ɴᴏᴍ.ᴍ.sɢ,mr̩gá-,10264,link
+21,na,na,PART,_,Polarity=Neg,22,advmod:neg,_,Gloss=not,ɴᴇɢ,ná,6906,link
+22,dhruvo,dhruva,ADV,_,AdvType=Man,20,orphan,_,Gloss=regularly,regularly,dʰruvá-,6892,link
+,,,,,,,,,,,,,
+text = ete pi tri prāṇā pachā na ārabhisare,,,,,,,,,,,,,
+1,ete,eta,DET,_,Case=Nom|Gender=Masc|Number=Plur|PronType=Dem,4,det,_,Gloss=these,these.ɴᴏᴍ.ᴍ.ᴘʟ,ēta-,2530,link
+2,pi,pi,ADV,_,,1,advmod:emph,_,Gloss=even,=ᴇᴍᴘʜ,ápi,485,link
+3,trī,tri,NUM,_,Case=Nom|Gender=Masc|NumType=Card,4,nummod,_,Gloss=three,3,trí,5994,link
+4,prāṇā,prāṇa,NOUN,_,Case=Acc|Gender=Masc|Number=Plural,7,obj,_,Gloss=animals,animal:ɴᴏᴍ.ɴ.ᴘʟ,prāṇá-,8928,link
+5,pachā,pachā,ADV,_,AdvType=Tim,7,advmod:tmod,_,Gloss=in-future,in_future,paścā́t,7999,link
+6,na,na,PART,_,Polarity=Neg,7,advmod:neg,_,Gloss=not,ɴᴇɢ,ná,6906,link
+7,ārabhisare,ārabha,VERB,_,Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass,0,root,_,Gloss=shall-be-killed,kill:ꜰᴜᴛ.ᴘᴀss.3ᴘʟ,ā́rabʰatē,1305,link
