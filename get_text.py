@@ -1,6 +1,7 @@
 import conllu
 import csv
 import urllib.request
+import unicodedata
 
 def make_link(file, sheet):
     return f'https://docs.google.com/spreadsheets/d/{file}/export?format=csv&id={file}&gid={sheet}'
@@ -39,7 +40,7 @@ for location in csvs:
         # go through csv and cleanup
         with open(name, 'r') as fin:
             reader = csv.reader(fin)
-            txt = ""
+            doc = ""
             ct = 1
 
             # each row of csv
@@ -47,7 +48,7 @@ for location in csvs:
 
                 # ignore header
                 if i == 0:
-                    txt += '\n'
+                    doc += '\n'
                     continue
                 # print(row)
                 # input()
@@ -60,24 +61,34 @@ for location in csvs:
 
                 # add sentence ids when at new sentence (+ ignore non-initial cell)
                 if row[0].startswith('text = '):
-                    row[0] = "# " + row[0]
+                    row[0] = "# " + row[0].replace('text = ', 'orig = ')
                     row = [row[0]]
-                    txt += f'# sent_id = {location}-{num + 1}-{ct}\n'
+
+                    text = row[0].replace('# orig = ', '')
+                    text = text.replace(' / ', ' ')
+                    text = text.replace('/ ', '')
+                    text = text.replace(' /', '')
+                    text = text.replace('/', '')
+                    text = text.replace('[', '')
+                    text = text.replace(']', '')
+
+                    doc += f'# sent_id = {location}-{num + 1}-{ct}\n'
+                    doc += f'# text = {text}\n'
                     ct += 1
-                # empty row means ignore all cells
+                # empty row means ignore all cells (no spurious "_"s)
                 elif row[0] == '':
                     row = []
                 
-                # cleanup: remove whitespace on either side, _ in empty cells
+                # cleanup: remove whitespace on either side, _ in empty cells, unicode composed forms
                 row = [x.strip() for x in row]
-                row = [x if x else '_' for x in row]
+                row = [unicodedata.normalize('NFC', x) if x else '_' for x in row]
 
                 # conllu-ize and add to string
-                txt += '\t'.join(row) + '\n'
+                doc += '\t'.join(row) + '\n'
 
             # add string to final output
-            result += txt
+            result += doc
 
 # write final output
 with open('pra_dipi-ud-train.conllu', 'w') as fout:
-    fout.write(result)
+    fout.write(result.strip('\n'))

@@ -13,7 +13,7 @@ text = iyaṃ dhaṃma-lipi Khepi[ṃ]galasi pavatasi Devānaṃpiyena Piyadasin
 8,piya,piya,ADJ,_,Compound=Yes|Gender=Masc,9,amod,_,Gloss=friendly,_,priyá-,8974,link
 9,dasinā,dasin,ADJ,_,Case=Inst|Gender=Masc|Number=Sing,10,nmod:desc,_,Gloss=looking,_,darśin-,,_
 10,lājinā,lājan,NOUN,_,Case=Inst|Gender=Masc|Number=Sing,11,nsubj,_,Gloss=by-king,king:ɪɴsᴛ.ᴍ.sɢ,rā́jan-,10679,link
-11,likhāpitā.,likhāpaya,VERB,_,"Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass",0,root,_,Gloss=has-been-caused-to-be-written,write.ᴄᴀᴜs:ᴘᴘᴘ:ɴᴏᴍ.ꜰ.sɢ,likʰáti,11048,link
+11,likhāpitā,likhāpaya,VERB,_,"Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass",0,root,_,Gloss=has-been-caused-to-be-written,write.ᴄᴀᴜs:ᴘᴘᴘ:ɴᴏᴍ.ꜰ.sɢ,likʰáti,11048,link
 ,,,,,,,,,,,,,
 text = hida no kichi jāvaṃ ālabhi[t]u pajohitaviye,,,,,,,,,,,,,
 1,hida,hida,ADV,_,AdvType=Loc,6,advmod:lmod,_,Gloss=here,here,idʰá,1605,link
