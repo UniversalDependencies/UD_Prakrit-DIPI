@@ -5,7 +5,7 @@ text = iy[aṃ] dhaṃma-lipī Devānaṃpriyena Priyadasinā rāña lekh[ā]pit
 2,dhaṃma,dhaṃma,NOUN,_,Compound=Yes|Gender=Masc,3,compound,_,Gloss=morality,_,dʰárma-,6753,link
 3,lipī,lipi,NOUN,_,Case=Nom|Gender=Fem|Number=Sing,9,obj,_,Gloss=rescript,_,lipi-,11058,link
 4-5,Devānaṃpriyena,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɪɴsᴛ.ᴍ.sɢ,_,_,_
-4,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,5,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+4,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,5,nmod,_,Gloss=of-the-Gods,_,dēvá-,6523,link
 5,priyena,priya,ADJ,_,Case=Inst|Gender=Masc|Number=Sing,8,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
 6-7,Priyadasinā,_,_,_,_,_,_,_,_,friendly_looking:ɪɴsᴛ.ᴍ.sɢ,_,_,_
 6,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,7,amod,_,Gloss=friendly,_,priyá-,8974,link
@@ -15,15 +15,15 @@ text = iy[aṃ] dhaṃma-lipī Devānaṃpriyena Priyadasinā rāña lekh[ā]pit
 ,,,,,,,,,,,,,
 text = [i]dha na kiṃci jīvaṃ ārabhitpā prajūhitavyaṃ,,,,,,,,,,,,,
 1,idha,idha,ADV,_,AdvType=Loc,6,advmod:lmod,_,Gloss=here|Orig=[i]dha,here,idʰá,1605,link
-2,na,na,PART,_,Polarity=Neg,6,advmod:neg,_,Gloss=not,ɴᴇɢ,ná,6906,link
+2,na,na,PART,_,Polarity=Neg,6,advmod,_,Gloss=not,ɴᴇɢ,ná,6906,link
 3,kiṃci,kiṃci,DET,_,PronType=Ind,4,det,_,Gloss=any,any,kíṃcid-,3144,link
 4,jīvaṃ,jīva,NOUN,_,Case=Nom|Gender=Neut|Number=Sing,5,obj,_,Gloss=living-being,living_being:ɴᴏᴍ.ɴ.sɢ,jīvá,5239,link
 5,ārabhitpā,ārabha,VERB,_,VerbForm=Conv,6,advcl,_,Gloss=be-killed-and,kill:ᴄɴᴠ,ā́rabʰatē,1305,link
 6,prajūhitavyaṃ,prajūha,VERB,_,Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass,0,root,_,Gloss=must-be-sacrificed,sacrifice.ᴏᴠᴀ:ɴᴏᴍ.ɴ.sɢ,_,_,_
 ,,,,,,,,,,,,,
 text = na ca samājo katavyo,,,,,,,,,,,,,
-1,na,na,PART,_,Polarity=Neg,4,advmod:neg,_,Gloss=no,ɴᴇɢ,ná,6906,link
-2,ca,ca,CCONJ,_,_,1,cc,_,Gloss=and,=ᴄᴏɴᴊ,ca,4533,link
+1,na,na,PART,_,Polarity=Neg,4,advmod,_,Gloss=no,ɴᴇɢ,ná,6906,link
+2,ca,ca,CCONJ,_,_,4,cc,_,Gloss=and,=ᴄᴏɴᴊ,ca,4533,link
 3,samājo,samāja,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,4,obj,_,Gloss=festival,festival_meeting:ɴᴏᴍ.ᴍ.sɢ,samāja-,13207,link
 4,katavyo,karo,VERB,_,Case=Nom|Gender=Masc|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass,0,root,_,Gloss=must-be-held,do.ᴏᴠᴀ:ɴᴏᴍ.ᴍ.sɢ,kr̩tá-,2814,link
 ,,,,,,,,,,,,,
@@ -34,7 +34,7 @@ text = bahukaṃ hi dosaṃ samājamhi pasati Devānaṃpriyo Priyadasi rājā,,
 4,samājamhi,samāja,NOUN,_,Case=Loc|Gender=Masc|Number=Sing,5,obl:lmod,_,Gloss=in-festival-meetings,festival_meeting:ʟᴏᴄ.ᴍ.sɢ,samāja-,13207,link
 5,pasati,pasa,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,_,Gloss=sees,see:ᴘʀs.ᴀᴄᴛ.3sɢ,páśyati ,8012,link
 6-7,Devānaṃpriyo,_,_,_,,_,_,_,_,beloved_of_the_Gods:ɴᴏᴍ.ᴍ.sɢ,_,_,_
-6,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,7,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+6,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,7,nmod,_,Gloss=of-the-Gods,_,dēvá-,6523,link
 7,priyo,priya,ADJ,_,Case=Nom|Gender=Masc|Number=Sing,10,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
 8-9,Priyadasi,_,_,_,_,_,_,_,_,friendly_looking:ɴᴏᴍ.ᴍ.sɢ,_,_,_
 8,priya ,priya,ADJ,_,Compound=Yes|Gender=Masc,9,amod,_,Gloss=friendly,_,priyá-,8974,link
@@ -51,7 +51,7 @@ text = / asti pi tu ekacā samājā sādhu-matā Devānaṃ / priyasa Priyadasin
 6,sādhu,sādhu,ADV,_,AdvType=Man,7,advmod,_,Gloss=meritorious,_,sādhú,13337,link
 7,matā,maṃña,VERB,_,Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass,5,acl,_,Gloss=considered,_,mányatē,9857,link
 8-9,Devānaṃpriyasa,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɢᴇɴ.ᴍ.sɢ,_,_,_
-8,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,9,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+8,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,9,nmod,_,Gloss=of-the-Gods,_,dēvá-,6523,link
 9,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,12,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
 10-11,Priyadasino,_,_,_,_,_,_,_,_,friendly_looking:ɢᴇɴ.ᴍ.sɢ,_,_,_
 10,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,11,amod,_,Gloss=friendly,_,priyá-,8974,link
@@ -62,12 +62,12 @@ text = pura mahānas[amhi] / Devānaṃpriyasa Priy[a]dasino rāño anudivasaṃ
 1,pura,pura,ADV,_,AdvType=Tim,14,advmod:tmod,_,Gloss=formerly,formerly,purás-,8281,link
 2,mahānasamhi,mahānasa,NOUN,_,Case=Loc|Gender=Neut|Number=Sing,14,obl:lmod,_,Gloss=in-the-kitchen|Orig=mahānas[amhi],kitchen:ʟᴏᴄ.ɴ.sɢ,mahānasá-,9943,link
 3-4,Devānaṃpriyasa,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɢᴇɴ.ᴍ.sɢ,_,_,_
-3,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,4,nmod:poss,_,Gloss=of-the-Gods,_,dēvá-,6523,link
+3,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,4,nmod,_,Gloss=of-the-Gods,_,dēvá-,6523,link
 4,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link
 5-7,Priyadasino,_,_,_,_,_,_,_,_,friendly_looking:ɢᴇɴ.ᴍ.sɢ,_,_,_
 5,priya,priya,ADJ,_,Compound=Yes|Gender=Masc,6,amod,_,Gloss=friendly|Orig=priy[a] ,_,priyá-,8974,link
 6,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=looking,_,darśin-,,_
-7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod:poss,_,Gloss=by-king,king:ɢᴇɴ.ᴍ.sɢ,rā́jan-,10679,link
+7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod,_,Gloss=by-king,king:ɢᴇɴ.ᴍ.sɢ,rā́jan-,10679,link
 8-9,anudivasaṃ,_,_,_,_,_,_,_,_,every_day:ɴᴏᴍ.ɴ.sɢ,_,_,_
 8,anu,anu,DET,_,PronType=Tot,9,det,_,Gloss=every,_,ánu-,,_
 9,divasaṃ,divasa,NOUN,_,Case=Nom|Gender=Neut|Number=Sing,14,obl:tmod,_,Gloss=day,_,divasá-,6333,_

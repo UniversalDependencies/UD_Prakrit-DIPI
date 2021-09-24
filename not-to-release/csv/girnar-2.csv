@@ -3,12 +3,12 @@ text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃt
 1,sarvata,sarvata,ADV,_,AdvType=Loc,35,advmod:lmod,_,Gloss=everywhere,,,,_
 2,vijitamhi,vijita,NOUN,_,Case=Loc|Gender=Masc|Number=Sing,1,obl,_,Gloss=in-the-dominion,,,,_
 3-4,Devānaṃpriyasa,_,_,_,_,_,_,_,_,,,,_
-3,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,4,nmod:poss,_,Gloss=Devānam,,,,_
+3,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,4,nmod,_,Gloss=Devānam,,,,_
 4,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=Priya,,,,_
 5-6,Piyadasino,_,_,_,_,_,_,_,_,,,,_
 5,piya ,piya,ADJ,_,Compound=Yes|Gender=Masc,6,amod,_,Gloss=Priya,,,,_
 6,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=Darśin,,,,_
-7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod:poss,_,Gloss=of-king,,,,_
+7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod,_,Gloss=of-king,,,,_
 8-9,evamapi,_,_,_,_,_,_,_,Gloss=likewise,,,,_
 8,evam ,evam,ADV,_,_,9,advmod,_,_,,,,
 9,api,api,ADV,_,_,9,advmod,_,_,,,,
@@ -28,12 +28,12 @@ text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃt
 22,vā,vā,PART,_,_,22,advmod:emph,_,Gloss=indeed,,,,_
 23,pi,pi,PART,_,_,22,advmod:emph,_,Gloss=also,,,,_
 24,tasa,ta ,DET,_,Case=Gen ,25,det,_,Gloss=of-this,,,,_
-25,Aṃtiyakasa,Aṃtiyaka,PROPN,_,Case=Gen|Gender=Masc|Number=Sing,27,nmod:poss,_,Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a],,,,_
+25,Aṃtiyakasa,Aṃtiyaka,PROPN,_,Case=Gen|Gender=Masc|Number=Sing,27,nmod,_,Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a],,,,_
 26,sāmīpaṃ,sāmīpa,ADJ,_,,28,acl:relcl,_,Gloss=neighbour|Orig=sāmīp[aṃ],,,,_
 27,rājāno,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Plural,12,conj,_,Gloss=kings,,,,_
 28,sarvatra,sarvatra ,NOUN,_,AdvType=Loc,36,advmod:lmod,_,Gloss=everywhere,,,,_
 29-30,Devānaṃpriyasa,_,_,_,_,_,_,_,_,,,,
-29,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,30,nmod:poss,_,Gloss=Devānam,,,,_
+29,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,30,nmod,_,Gloss=Devānam,,,,_
 30,priyasa,priya,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,33,nmod:desc,_,Gloss=Priya,,,,_
 31-32,Priyadasino,_,_,_,_,_,_,_,_,,,,
 31,priya,priya,ADJ,_,Gender=Masc|Compound=Yes,32,amod,_,Gloss=Priya,,,,_
@@ -96,4 +96,4 @@ text = / paṃthesū kūpā ca khānāpitā vrachā ca ropāpit[ā] paribhogāya
 8,paribhogāya,paribhoga,NOUN,_,Case=Dat|Gender=Masc|Number=Sing,7,obl,_,Gloss=for-the-use,,,,_
 9-10,pasumanusānaṃ,_,_,_,_,_,_,_,_,,,,
 9,pasu,_,NOUN,_,Compound=Yes|Gender=Masc,10,compound,_,Gloss=cattle,,,,_
-10,manusānaṃ,manusa,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,8,nmod:poss,_,Gloss=of-men,,,,_
+10,manusānaṃ,manusa,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,8,nmod,_,Gloss=of-men,,,,_

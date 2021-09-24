@@ -8,6 +8,18 @@ def make_link(file, sheet):
 csvs = {
     'girnar': ('1HuNs_AnkII5eQFozIX3q-dlQEGSLOw_nq3mfLZY3Rpw', [
         '0', '1786988864'
+    ]),
+    'shahbazgarhi': ('1OdWqJamif-exNANPB0BIBzJKYnL-AA2wYyKnsJqEEPE', [
+        '0'
+    ]),
+    'kalsi': ('1ABmbhczPMpgIBRTlahpgtoZrngL3yKC23nWrieY5jUM', [
+        '0'
+    ]),
+    'mansehra': ('1ebmhnBoR1Lx_VjmXWaSHqmljIF_2swMA-U_eMMH5BQ4', [
+        '0'
+    ]),
+    'jaugada': ('1siF2kGRTJVLlP5R23Q9pHqoyLGehB0B9ViQy0HqrRKk', [
+        '358349111'
     ])
 }
 
@@ -18,6 +30,7 @@ for location in csvs:
     file = csvs[location][0]
     for num, edict in enumerate(csvs[location][1]):
         link = make_link(file, edict)
+        print(f'{location}-{num + 1}', link)
 
         # download all the csvs and store with nice names
         name = f'not-to-release/csv/{location}-{num + 1}.csv'
@@ -33,7 +46,9 @@ for location in csvs:
             for i, row in enumerate(reader):
 
                 # ignore header
-                if i == 0: continue
+                if i == 0:
+                    txt += '\n'
+                    continue
                 # print(row)
                 # input()
 
