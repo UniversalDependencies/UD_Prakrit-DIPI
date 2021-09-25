@@ -1,0 +1,10 @@
+ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,GLOSS,ETYMO,CDIAL,JAMBU
+text = Devanaṃpriyo Priyadraśi raja ahati,,,,,,,,,,,,,
+1-2,Devanaṃpriyo,,_,,,,,,,,,,
+1,devanaṃ,deva,NOUN,,Case=Gen|Gender=Masc|Number=Plur,2,nmod,,,,,,
+2,priyo,priya,ADJ,,Case=Nom|Gender=Masc|Number=Sing,5,nmod:desc,,,,,,
+3-4,Priyadraśi,,_,,,,,,,,,,
+3,priya,priya,ADJ,,Compound=Yes|Gender=Masc,4,amod,,,,,,
+4,draśi,draśin,ADJ,,Case=Nom|Gender=Masc|Number=Sing,5,nmod:desc,,,,,,
+5,raja,rajan,NOUN,,Case=Nom|Gender=Masc|Number=Sing,6,nsubj,,,,,,
+6,ahati,aha,VERB,,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,,,,,,

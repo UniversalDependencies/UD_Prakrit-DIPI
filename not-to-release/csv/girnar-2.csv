@@ -10,27 +10,27 @@ text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃt
 6,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,7,nmod:desc,_,Gloss=Darśin,,,,_
 7,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,2,nmod,_,Gloss=of-king,,,,_
 8-9,evamapi,_,_,_,_,_,_,_,Gloss=likewise,,,,_
-8,evam ,evam,ADV,_,_,9,advmod,_,_,,,,
-9,api,api,ADV,_,_,9,advmod,_,_,,,,
-10,pracaṃtesu,pracaṃta,NOUN,_,Case=Loc|Gender=Masc|Number=Plur,2,obl,_,Gloss=among-borderers,,,,_
-11,yathā,,ADJ,_,,12,case,_,Gloss=such-as,,,,_
-12,Coḍa,Coḍa,PROPN,_,Case=Nom|Gender=Masc|Number=Plur,9,nmod ,_,Gloss=Coḍa,,,,_
+8,evam ,evam,ADV,_,_,10,advmod,_,_,,,,
+9,api,api,ADV,_,_,10,advmod,_,_,,,,
+10,pracaṃtesu,pracaṃta,NOUN,_,Case=Loc|Gender=Masc|Number=Plur,2,conj,_,Gloss=among-borderers,,,,_
+11,yathā,,PART,_,,12,case,_,Gloss=such-as,,,,_
+12,Coḍa,Coḍa,PROPN,_,Case=Nom|Gender=Masc|Number=Plur,10,nmod ,_,Gloss=Coḍa,,,,_
 13,Pāḍā,Pāḍa,PROPN,_,Case=Nom|Gender=Masc|Number=Plur,12,conj,_,Gloss=Pāṇḍya,,,,_
 14,Satiyaputo,Satiyaputa,PROPN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=Satiyaputa,,,,_
 15,Ketalaputo,Ketalaputa,PROPN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=Ketalaputa,,,,_
 16,ā,ā,ADP,_,_,17,case,_,Gloss=as-far-as,,,,_
 17,Taṃbapaṃṇī,Taṃbapaṃṇin,PROPN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=Tāmraparṇī,,,,_
-18,Aṃtiyako,Aṃtiyaka,PROPN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=Antiyaka,,,,_
+18,Aṃtiyako,Aṃtiyaka,PROPN,_,Case=Nom|Gender=Masc|Number=Sing,20,appos,_,Gloss=Antiyaka,,,,_
 19-20,Yona-rājā,_,_,_,_,_,_,_,_,,,,
 19,yona  ,yona,ADJ,_,Gender=Masc|Compound=Yes,20,amod,_,Gloss=Yona ,,,,_
-20,rājā,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,18,compound,_,Gloss=king,,,,_
-21,ye,ya ,PRON,_,_,27,nsubj,_,Gloss=who,,,,_
-22,vā,vā,PART,_,_,22,advmod:emph,_,Gloss=indeed,,,,_
-23,pi,pi,PART,_,_,22,advmod:emph,_,Gloss=also,,,,_
-24,tasa,ta ,DET,_,Case=Gen ,25,det,_,Gloss=of-this,,,,_
+20,rājā,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=king,,,,_
+21,ye,ya ,PRON,_,PronType=Rel,27,nsubj,_,Gloss=who,,,,_
+22,vā,vā,PART,_,_,21,advmod:emph,_,Gloss=indeed,,,,_
+23,pi,pi,PART,_,_,21,advmod:emph,_,Gloss=also,,,,_
+24,tasa,ta ,DET,_,PronType=Dem|Case=Gen|Gender=Masc|Number=Sing,25,det,_,Gloss=of-this,,,,_
 25,Aṃtiyakasa,Aṃtiyaka,PROPN,_,Case=Gen|Gender=Masc|Number=Sing,27,nmod,_,Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a],,,,_
 26,sāmīpaṃ,sāmīpa,ADJ,_,,28,acl:relcl,_,Gloss=neighbour|Orig=sāmīp[aṃ],,,,_
-27,rājāno,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Plural,12,conj,_,Gloss=kings,,,,_
+27,rājāno,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Plural,10,conj,_,Gloss=kings,,,,_
 28,sarvatra,sarvatra ,NOUN,_,AdvType=Loc,36,advmod:lmod,_,Gloss=everywhere,,,,_
 29-30,Devānaṃpriyasa,_,_,_,_,_,_,_,_,,,,
 29,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,30,nmod,_,Gloss=Devānam,,,,_
@@ -40,20 +40,20 @@ text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃt
 32,dasino,dasin,ADJ,_,Case=Gen|Gender=Masc|Number=Sing,33,nmod:desc,_,Gloss=Darśin,,,,_
 33,rāño,rājan,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,36,nsubj,_,Gloss=king,,,,_
 34,dve,dva,NUM,_,NumType=Card,35,nummod,_,Gloss=two,,,,_
-35,cikīcha,cikīcha,NOUN,_,Case=Acc|Gender=Masc|Number=Sing,36,obj,_,Gloss=medical-treatment,,,,_
-36,katā,karo,VERB,_,Case=Nom|Gender=Neut|Number=Plur|Voice=Pass|Tense=Past|,0,root,_,Gloss=were-established,,,,_
+35,cikīcha,cikīcha,NOUN,_,Case=Nom|Gender=Fem|Number=Plur,36,obj,_,Gloss=medical-treatment,,,,_
+36,katā,karo,VERB,_,Case=Nom|Gender=Fem|Number=Plur|Voice=Pass|Tense=Past|VerbForm=Part|Voice=Pass,0,root,_,Gloss=were-established,,,,_
 37-38,manusa-cīkichā,_,_,_,_,_,,_,_,,,,
 37,manusa  ,manusa,NOUN,_,Gender=Masc|Compound=Yes,38,nmod,_,Gloss=man,,,,_
-38,cīkichā,cīkicha,NOUN,_,Case=Acc|Gender=Masc|Number=Plur,36,appos,_,Gloss=medical-treatment,,,,_
+38,cīkichā,cīkicha,NOUN,_,Case=Nom|Gender=Fem|Number=Plur,35,appos,_,Gloss=medical-treatment,,,,_
 39,ca,ca,CCONJ,_,_,38,cc,_,Gloss=and,,,,_
 40,pasu,pasu,NOUN,_,Gender=Masc|Compound=Yes,41,nmod,_,Gloss=cattle,,,,_
-41,cikīchā,cīkicha,NOUN,_,Case=Acc|Gender=Masc|Number=Plur,38,conj,_,Gloss=medical-treatment,,,,_
+41,cikīchā,cīkicha,NOUN,_,Case=Nom|Gender=Fem|Number=Plur,38,conj,_,Gloss=medical-treatment,,,,_
 42,ca,ca,CCONJ,_,_,41,cc,_,Gloss=and,,,,_
 ,,,,,,,,,,,,,
 text = osuḍhāni ca yāni m[a]nusopagān[i] ca / paso[pa]gāni ca yata yata nāsti sarvatrā hārāpitāni ca ropāpitāni ca,,,,,,,,,,,,,
 1,osuḍhāni,osuḍha,NOUN,,Case=Nom|Gender=Neut|Number=Plur,10,nsubj,,Gloss=herbs,,auṣadʰá-,2571,link
 2,ca,ca,CCONJ,,_,1,cc,,Gloss=and,,ca,4533,link
-3,yāni,ya,PRON,,PronType=Rel,10,nsubj:cop,,Gloss=that,,,,_
+3,yāni,ya,PRON,,PronType=Rel,5,nsubj,,Gloss=that,,,,_
 4-5,manusopagāni,_,_,_,_,_,_,_,_,,_,_,_
 4,manusa,manusa,NOUN,,Compound=Yes|Gender=Masc,5,nmod,,Gloss=man|Orig=m[a]nuso,,manuṣyà-,9828,link
 5,upagāni,upaga,ADJ,,Case=Nom|Number=Plur|Gender=Neut,1,acl:relcl,,Gloss=beneficial-to|Orig=pagān[i] ,,upaga-,2152,link
@@ -62,9 +62,9 @@ text = osuḍhāni ca yāni m[a]nusopagān[i] ca / paso[pa]gāni ca yata yata n�
 7,pasu,pasu,NOUN,,Compound=Yes|Gender=Masc,8,nmod,,Gloss=cattle,,paśú-,7984,link
 8,upagāni,upaga,ADJ,,Case=Nom|Number=Plur|Gender=Neut,5,conj,,Gloss=beneficial-to|Orig=[pa]gāni,,upaga-,2152,link
 9,ca,ca,CCONJ,,_,8,cc,,Gloss=and,,ca,4533,link
-10,yata,yata,SCONJ,,PronType=Rel,14,mark,,Gloss=where,,yátra,10405,link
+10,yata,yata,SCONJ,,PronType=Rel,12,mark,,Gloss=where,,yátra,10405,link
 11,yata,yata,SCONJ,,PronType=Rel,10,compound:redup,,Gloss=where,,yátra,10405,link
-12,nāsti,nās,VERB,,,10,cop,,Gloss=are-no,,nā́sti,7091,link
+12,nāsti,nās,VERB,,Tense=Pres|VerbForm=Fin|Voice=Act|Number=Sing|Person=3,14,advcl,,Gloss=are-no,,nā́sti,7091,link
 13,sarvatrā,sarvatra,ADV,,AdvType=Loc,14,advmod:lmod,,Gloss=everywhere,,sarvátra-,13278,link
 14,hārāpitāni,hārāpaya,VERB,,"Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass",0,root,,Gloss=caused-to-be-imported,,hārayati,14061,link
 15,ca,ca,CCONJ,,,14,cc,,Gloss=and,,ca,4533,link

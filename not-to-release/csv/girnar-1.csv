@@ -1,6 +1,6 @@
 ID,FORM,LEMMA,UPOS,XPOS,FEATS,HEAD,DEPREL,DEPS,MISC,GLOSS,ETYMO,CDIAL,JAMBU
 text = iy[aṃ] dhaṃma-lipī Devānaṃpriyena Priyadasinā rāña lekh[ā]pitā,,,,,,,,,,,,,
-1,iyaṃ,iyaṃ,DET,_,Case=Nom|Gender=Fem|Number=Sing|PronType=Dem,3,det,_,Gloss=this|Orig=iy[aṃ],this.ɴᴏᴍ.ꜰ.sɢ,iyáṃ,587,link
+1,iyaṃ,iyaṃ,PRON,_,Case=Nom|Gender=Fem|Number=Sing|PronType=Dem,3,det,_,Gloss=this|Orig=iy[aṃ],this.ɴᴏᴍ.ꜰ.sɢ,iyáṃ,587,link
 2-3,dhaṃma-lipī,_,_,_,_,_,_,_,_,rescript_on_morality:ɴᴏᴍ.ꜰ.sɢ,_,_,_
 2,dhaṃma,dhaṃma,NOUN,_,Compound=Yes|Gender=Masc,3,compound,_,Gloss=morality,_,dʰárma-,6753,link
 3,lipī,lipi,NOUN,_,Case=Nom|Gender=Fem|Number=Sing,9,obj,_,Gloss=rescript,_,lipi-,11058,link
@@ -16,7 +16,7 @@ text = iy[aṃ] dhaṃma-lipī Devānaṃpriyena Priyadasinā rāña lekh[ā]pit
 text = [i]dha na kiṃci jīvaṃ ārabhitpā prajūhitavyaṃ,,,,,,,,,,,,,
 1,idha,idha,ADV,_,AdvType=Loc,6,advmod:lmod,_,Gloss=here|Orig=[i]dha,here,idʰá,1605,link
 2,na,na,PART,_,Polarity=Neg,6,advmod,_,Gloss=not,ɴᴇɢ,ná,6906,link
-3,kiṃci,kiṃci,DET,_,PronType=Ind,4,det,_,Gloss=any,any,kíṃcid-,3144,link
+3,kiṃci,kiṃci,PRON,_,PronType=Ind,4,det,_,Gloss=any,any,kíṃcid-,3144,link
 4,jīvaṃ,jīva,NOUN,_,Case=Nom|Gender=Neut|Number=Sing,5,obj,_,Gloss=living-being,living_being:ɴᴏᴍ.ɴ.sɢ,jīvá,5239,link
 5,ārabhitpā,ārabha,VERB,_,VerbForm=Conv,6,advcl,_,Gloss=be-killed-and,kill:ᴄɴᴠ,ā́rabʰatē,1305,link
 6,prajūhitavyaṃ,prajūha,VERB,_,Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass,0,root,_,Gloss=must-be-sacrificed,sacrifice.ᴏᴠᴀ:ɴᴏᴍ.ɴ.sɢ,_,_,_
