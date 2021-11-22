@@ -1,0 +1,225 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <!-- JavaScript Bundle with Popper -->
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://unpkg.com/d3-geo-voronoi@1.5"></script>
+        <script src="https://unpkg.com/topojson@3"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-52207113-1"></script>
+        <script src="https://cdn.jsdelivr.net/npm/d3-geo@3"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-52207113-1');
+        </script>
+        <style>
+            html, body {margin: 0; height: 100%; overflow: hidden}
+
+            .tooltip {
+                position: absolute;
+                padding: 10px;
+                top: -100px;
+                left: -100px;
+                font-size: 0.9em;
+                pointer-events: none;
+                background: #fff;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+
+                -moz-box-shadow:    3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+                -webkit-box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+                box-shadow:         3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+            }
+
+            .tooltip h5 {
+                margin: 0;
+                padding: 0;
+            }
+
+            .tooltip p {
+                margin: 0;
+                padding: 0;
+            }
+
+            .tooltip table {
+                margin: 0;
+                padding: 0;
+                border-collapse: collapse;
+            }
+
+            .container {
+                max-width: 400px;
+                position: absolute;
+                left: 0px;
+                top: 0px;
+                margin-left: 5vw;
+                margin-top: 5vh;
+                margin-bottom: 5vh;
+            }
+
+            .fullcontainer {
+                max-width: none !important;
+                width: 90vw;
+                height: 80vh;
+            }
+
+            .card-body {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+            }
+
+            ul {
+                flex-shrink: 1;
+            }
+        </style>
+        <title>Bhāṣācitra | Map</title>
+    </head>
+    <body>
+        <svg id="map">
+            <defs>
+                <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+                </filter>
+            </defs>
+        </svg>
+    </body>
+    <script>
+        var width = window.innerWidth, height = window.innerHeight
+
+var svg = d3.select("#map")
+    .attr("preserveAspectRatio", "xMidYMid")
+    .attr("viewBox", "0 0 " + width + " " + height)
+var g = svg.append("g")
+
+var projection = d3.geoEquirectangular()
+    .scale(1300)
+    .center([80, 20])
+    .translate([width / 2, height / 2])
+
+var path = d3.geoPath()
+    .projection(projection)
+
+Promise.all([
+    d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json")
+]).then(function(files) {
+    load(...files)
+})
+
+var points = [
+    ["Kandahar", "grey", 31.616667, 65.716667],
+    ["Ranigat", "grey", 34.2306, 72.4488],
+    ["Laghman", "grey", 34.5846, 70.1834],
+    ["Shahbazgarhi", "orange", 34.235556, 72.16],
+    ["Mansehra", "orange", 34.333889, 73.201389],
+    ["Kalsi", "green", 30.5215481, 77.8418148],
+    ["Delhi-Topra", "green", 30.1252, 77.1623],
+    ["Delhi-Meerut", "green", 28.99, 77.7],
+    ["Rampurva", "green", 26.8429, 84.696],
+    ["Lauriya-Nandangarh", "green", 26.983333, 84.4],
+    ["Lauriya-Araraj", "green", 26.5439379, 84.6442085],
+    ["Lumbini", "green", 27.481389, 83.275833],
+    ["Nigali-Sagar", "green", 27.533333, 83.05],
+    ["Sarnath", "green", 25.3811, 83.0214],
+    ["Rupnath", "green", 24.583333, 82.066667],
+    ["Bairat", "green", 27.45, 76.18],
+    ["Sanchi", "green", 23.480656, 77.7363],
+    ["Allahabad-Kosambi", "green", 25.338984, 81.392899],
+    ["Sahasram", "green", 24.95, 84.03],
+    ["Gujarra", "green", 25.57699, 78.54594],
+    ["Barabar", "green", 25.005, 85.063],
+    ["Calcutta-Bairat", "green", 27.417116, 76.16229],
+    ["Dhauli", "red", 20.192372, 85.839489],
+    ["Jaugada", "red", 19.522556, 84.81225],
+    ["Girnar", "blue", 21.494722, 70.505556],
+    ["Sopara", "blue", 19.4154, 72.8613],
+    ["Yerragudi", "purple", 13.7863798, 78.0096402],
+    ["Siddapura", "purple", 14.347, 74.894],
+    ["Brahmagiri", "purple", 14.813889, 76.806389],
+    ["Maski", "purple", 15.96, 76.65]
+]
+
+var polygon = [[
+    [25, 66],
+    [28, 66],
+    [30, 64],
+    [34, 65],
+    [36, 68],
+    [36, 72],
+    [35, 75],
+    [30, 80],
+    [28, 85],
+    [26, 88],
+    [25, 89],
+    [20, 88],
+    [15, 81],
+    [12, 80],
+    [13, 76],
+    [14, 73]
+]]
+
+function load(world) {
+    topo = topojson.feature(world, world.objects.land).features
+    g.append("path")
+        .attr("fill", "none")
+        .attr("stroke", "#999")
+        .attr("d", path(d3.geoGraticule10()));
+
+    g.selectAll("#map")
+        .data(topo)
+        .enter()
+        .append("path")
+            .attr("id", "land")
+            .attr("d", path)
+            .attr("fill", "#FFF")
+            .attr("stroke", "#000")
+            .attr("stroke-width", "1px")
+
+    d3.select("defs")
+        .append("mask")
+            .attr("id", "clip")
+            .append("use")
+                .attr("href", "#land")
+
+    g.selectAll("#maurya")
+        .data(polygon)
+        .enter()
+        .append("polygon")
+            .attr("points", function(d) { 
+                res = d.map(function(p) { 
+                    var loc = projection([p[1], p[0]])
+                    return [loc[0], loc[1]].join(",");
+                }).join(" ");
+                console.log(res)
+                return res
+            })
+            .attr("fill", "grey")
+            .attr("opacity", 0.4)
+            .attr("stroke-width", 0)
+            .attr("filter", "url(#f1)")
+            .attr("mask", "url(#clip)")
+    
+    points.forEach(d => {
+        var loc = projection([d[3], d[2]])
+        console.log(d)
+        g.append("circle")
+            .attr("cx", loc[0])
+            .attr("cy", loc[1])
+            .attr("r", 8)
+            .attr("stroke-width", 3)
+            .attr("stroke", d[1])
+            .attr("fill-opacity", 0.5)
+            .attr("fill", d[1])
+    })
+}
+    </script>
+</html>
