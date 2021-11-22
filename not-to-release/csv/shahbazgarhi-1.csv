@@ -37,7 +37,7 @@ text = ba[hu]ka [hi] dośa sa[maya]spi Devaṇapriy[e] Priadraśi ray[a da]khati
 7,pria ,pria,ADJ,_,Compound=Yes|Gender=Masc,8,amod,_,Gloss=friendly,_,priyá-,8974,link
 8,draśi,draśin,ADJ,_,Case=Nom|Gender=Masc|Number=Sing,9,nmod:desc,_,Gloss=looking,_,darśin-,,_
 9,raya,rāyan,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,10,nsubj,_,Gloss=king|Orig=ray[a],king:ɴᴏᴍ.ᴍ.sɢ,rā́jan-,10679,link
-10,dakhati,dakha,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbFrom=Fin|Voice=Act,0,root,_,Gloss=sees|Orig=[da]khati,see:ᴘʀs.ᴀᴄᴛ.3sɢ,*dr̩kṣati,6507,link
+10,dakhati,dakha,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,_,Gloss=sees|Orig=[da]khati,see:ᴘʀs.ᴀᴄᴛ.3sɢ,*dr̩kṣati,6507,link
 ,,,,,,,,,,,,,
 text = [a]sti pi cu ekatia samaye sasu-mate Devanapiasa Priadraśisa raño,,,,,,,,,,,,,
 1,asti,as,VERB,_,Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act,0,root,_,Gloss=there-are|Orig=[a]sti,be:ᴘʀs.ᴀᴄᴛ.3ᴘʟ,ásti,977,link
@@ -74,7 +74,7 @@ text = pura mahana[sas]i [Devana]pr[i]asa Priadraśisa raño anudivaso bahuni pr
 11,praṇa,praṇa,NOUN,_,Compound=Yes|Gender=Masc,12,compound,_,Gloss=living|Orig=pra[ṇa],_,prāṇá-,8928,link
 12,sata,sata,NOUN,_,Compound=Yes|Gender=Neut,13,compound,_,Gloss=being,_,sattvá-,13111,link
 13,sahasani,sahasa,NUM,_,Case=Acc|Gender=Masc|Number=Plur|NumType=Card,14,obj,_,Gloss=hundred-thousands-of,_,sahásra-,13307,link
-14,arabhiyisu,arabhiya,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbFrom=Fin|Voice=Pass,0,root,_,Gloss=were-killed|Orig=[arabhi]yis[u],kill.ᴘᴀss:ᴀᴏʀ..3ᴘʟ,ā́rabʰatē,1305,link
+14,arabhiyisu,arabhiya,VERB,_,Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass,0,root,_,Gloss=were-killed|Orig=[arabhi]yis[u],kill.ᴘᴀss:ᴀᴏʀ..3ᴘʟ,ā́rabʰatē,1305,link
 15-16,supaṭhaye,_,_,_,_,_,_,_,_,_,_,_,
 15,supa ,supa,NOUN,_,Gender=Masc|Compound=Yes,14,obl,_,Gloss=curry,soup,sū́pa-,13571,link
 16,aṭhaye,aṭha,ADP,_,Gender=Masc|Number=Sing|Case=Dat,15,case,_,Gloss=for-the-sake-of|Orig=aṭhay[e],for_the_sake_of,ártʰa-,638,link

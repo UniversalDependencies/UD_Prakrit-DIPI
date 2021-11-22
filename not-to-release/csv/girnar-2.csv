@@ -24,10 +24,10 @@ text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃt
 19-20,Yona-rājā,_,_,_,_,_,_,_,_,,,,
 19,yona  ,yona,ADJ,_,Gender=Masc|Compound=Yes,20,amod,_,Gloss=Yona ,,,,_
 20,rājā,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Sing,12,conj,_,Gloss=king,,,,_
-21,ye,ya ,PRON,_,PronType=Rel,27,nsubj,_,Gloss=who,,,,_
-22,vā,vā,PART,_,_,21,advmod:emph,_,Gloss=indeed,,,,_
-23,pi,pi,PART,_,_,21,advmod:emph,_,Gloss=also,,,,_
-24,tasa,ta ,DET,_,PronType=Dem|Case=Gen|Gender=Masc|Number=Sing,25,det,_,Gloss=of-this,,,,_
+21,ye,ya ,PRON,_,Case=Nom|Gender=Masc|Number=Sing|PronType=Rel,27,nsubj,_,Gloss=who,,,,_
+22,vā,vā,CCONJ,_,_,21,cc,_,Gloss=indeed,,,,_
+23,pi,pi,ADV,_,_,21,discourse,_,Gloss=also,,,,_
+24,tasa,ta ,PRON,_,PronType=Dem|Case=Gen|Gender=Masc|Number=Sing,25,det,_,Gloss=of-this,,,,_
 25,Aṃtiyakasa,Aṃtiyaka,PROPN,_,Case=Gen|Gender=Masc|Number=Sing,27,nmod,_,Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a],,,,_
 26,sāmīpaṃ,sāmīpa,ADJ,_,,28,acl:relcl,_,Gloss=neighbour|Orig=sāmīp[aṃ],,,,_
 27,rājāno,rājan,NOUN,_,Case=Nom|Gender=Masc|Number=Plural,10,conj,_,Gloss=kings,,,,_
@@ -64,7 +64,7 @@ text = osuḍhāni ca yāni m[a]nusopagān[i] ca / paso[pa]gāni ca yata yata n�
 9,ca,ca,CCONJ,,_,8,cc,,Gloss=and,,ca,4533,link
 10,yata,yata,SCONJ,,PronType=Rel,12,mark,,Gloss=where,,yátra,10405,link
 11,yata,yata,SCONJ,,PronType=Rel,10,compound:redup,,Gloss=where,,yátra,10405,link
-12,nāsti,nās,VERB,,Tense=Pres|VerbForm=Fin|Voice=Act|Number=Sing|Person=3,14,advcl,,Gloss=are-no,,nā́sti,7091,link
+12,nāsti,nās,VERB,,Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act|Number=Sing|Person=3,14,advcl,,Gloss=are-no,,nā́sti,7091,link
 13,sarvatrā,sarvatra,ADV,,AdvType=Loc,14,advmod:lmod,,Gloss=everywhere,,sarvátra-,13278,link
 14,hārāpitāni,hārāpaya,VERB,,"Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass",0,root,,Gloss=caused-to-be-imported,,hārayati,14061,link
 15,ca,ca,CCONJ,,,14,cc,,Gloss=and,,ca,4533,link

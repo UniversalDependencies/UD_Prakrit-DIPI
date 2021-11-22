@@ -31,7 +31,7 @@ text = bahuk[ā] hi dosā samājasā Devān[aṃ]piye Pi[ya]dasī lājā dakhati
 1,bahukā,bahuka,DET,_,Case=Acc|Gender=Masc|Number=Sing,3,det,_,Gloss=much|Orig=bahuk[ā],much:ᴀᴄᴄ.ᴍ.sɢ,bahuka-,9187,link
 2,hi,hi,PART,_,_,1,advmod:emph,_,Gloss=for,=for,hí,,_
 3,dosā,dosa,NOUN,_,Case=Acc|Gender=Masc|Number=Sing,10,obj,_,Gloss=evil,evil:ᴀᴄᴄ.ᴍ.sɢ,dōṣa-,6587,link
-4,samājasā,samāja,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,10,obl:lmod,_,Gloss=in-festival-meetings,festival_meeting:ʟᴏᴄ.ᴍ.sɢ,samāja-,13207,link
+4,samājasā,samāja,NOUN,_,Case=Gen|Gender=Masc|Number=Sing,10,obl,_,Gloss=in-festival-meetings,festival_meeting:ʟᴏᴄ.ᴍ.sɢ,samāja-,13207,link
 5-6,Devānaṃpiye,_,_,_,_,_,_,_,_,beloved_of_the_Gods:ɴᴏᴍ.ᴍ.sɢ,_,_,_
 5,devānaṃ,deva,NOUN,_,Case=Gen|Gender=Masc|Number=Plur,6,nmod,_,Gloss=of-the-Gods|Orig=Devān[aṃ],_,dēvá-,6523,link
 6,piye,piya,ADJ,_,Case=Nom|Gender=Masc|Number=Sing,9,nmod:desc,_,Gloss=beloved,_,priyá-,8974,link

@@ -7,31 +7,28 @@ def make_link(file, sheet):
     return f'https://docs.google.com/spreadsheets/d/{file}/export?format=csv&id={file}&gid={sheet}'
 
 csvs = {
-    'girnar': ('1HuNs_AnkII5eQFozIX3q-dlQEGSLOw_nq3mfLZY3Rpw', [
-        '0', '1786988864', '2013256893', '115837501'
-    ]),
-    'shahbazgarhi': ('1OdWqJamif-exNANPB0BIBzJKYnL-AA2wYyKnsJqEEPE', [
-        '0', '627537663', '1797393990'
-    ]),
-    'kalsi': ('1ABmbhczPMpgIBRTlahpgtoZrngL3yKC23nWrieY5jUM', [
-        '0'
-    ]),
-    'mansehra': ('1ebmhnBoR1Lx_VjmXWaSHqmljIF_2swMA-U_eMMH5BQ4', [
-        '0'
-    ]),
-    'jaugada': ('1siF2kGRTJVLlP5R23Q9pHqoyLGehB0B9ViQy0HqrRKk', [
-        '358349111'
-    ])
+    'girnar': ('1HuNs_AnkII5eQFozIX3q-dlQEGSLOw_nq3mfLZY3Rpw', ['0', '1786988864', '2013256893', '115837501', '902974977']),
+    'shahbazgarhi': ('1OdWqJamif-exNANPB0BIBzJKYnL-AA2wYyKnsJqEEPE', ['0', '627537663', '1797393990']),
+    'kalsi': ('1ABmbhczPMpgIBRTlahpgtoZrngL3yKC23nWrieY5jUM', ['0']),
+    'mansehra': ('1ebmhnBoR1Lx_VjmXWaSHqmljIF_2swMA-U_eMMH5BQ4', ['0']),
+    'jaugada': ('1siF2kGRTJVLlP5R23Q9pHqoyLGehB0B9ViQy0HqrRKk', ['358349111']),
+    'dhauli': ('1PBgjT-S7FA5OFkL4nruhJGzpUwJzlxbHJT1SGzFQhaU', ['0'])
 }
 
 result = ""
+
+words = 0
+sentences = 0
+docs = 0
+tot = [0, 0, 0]
 
 # go through all the csvs
 for location in csvs:
     file = csvs[location][0]
     for num, edict in enumerate(csvs[location][1]):
         link = make_link(file, edict)
-        print(f'{location}-{num + 1}', link)
+        # print(f'{location}-{num + 1}', link)
+        docs += 1
 
         # download all the csvs and store with nice names
         name = f'not-to-release/csv/{location}-{num + 1}.csv'
@@ -64,7 +61,9 @@ for location in csvs:
                 if row[0].startswith('text = '):
                     row[0] = "# " + row[0].replace('text = ', 'orig = ')
                     row = [row[0]]
+                    sentences += 1
 
+                    # generate text without info on insertions
                     text = row[0].replace('# orig = ', '')
                     text = text.replace(' / ', ' ')
                     text = text.replace('/ ', '')
@@ -79,6 +78,8 @@ for location in csvs:
                 # empty row means ignore all cells (no spurious "_"s)
                 elif row[0] == '':
                     row = []
+                elif '-' not in row[0]:
+                    words += 1
                 
                 # cleanup: remove whitespace on either side, _ in empty cells, unicode composed forms
                 row = [x.strip() for x in row]
@@ -89,6 +90,13 @@ for location in csvs:
 
             # add string to final output
             result += doc
+    print(location, ':', docs, sentences, words)
+    tot[0] += docs
+    tot[1] += sentences
+    tot[2] += words
+    docs, sentences, words = 0, 0, 0
+
+print(tot)
 
 # write final output
 with open('pra_dipi-ud-train.conllu', 'w') as fout:
