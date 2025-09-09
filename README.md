@@ -26,6 +26,7 @@ The corpus has been hand-annotated by Aryaman Arora and Adam Farris.
 Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
 Lemmas: manual native
 UPOS: manual native
