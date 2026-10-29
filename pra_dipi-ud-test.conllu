@@ -164,7 +164,7 @@
 24	tasa	ta	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	25	det	_	Gloss=of-this
 25	Aṃtiyakasa	Aṃtiyaka	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a]
 26	sāmīpaṃ	sāmīpa	ADJ	_	_	28	acl:relcl	_	Gloss=neighbour|Orig=sāmīp[aṃ]
-27	rājāno	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Plural	10	conj	_	Gloss=kings
+27	rājāno	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	Gloss=kings
 28	sarvatra	sarvatra	ADV	_	AdvType=Loc	36	advmod:lmod	_	Gloss=everywhere
 29-30	Devānaṃpriyasa	_	_	_	_	_	_	_	_
 29	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	Gloss=Devānam
@@ -910,7 +910,7 @@
 1	eta	eta	DET	_	PronType=Dem	4	det	_	Gloss=these
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Gloss=even
 3	praṇa	praṇa	NUM	_	Case=Nom|Gender=Masc|NumType=Card	7	obj	_	Gloss=animals
-4	trayo	trayas	NOUN	_	Case=Acc|Gender=Masc|Number=Plural	3	nummod	_	Gloss=three
+4	trayo	trayas	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	nummod	_	Gloss=three
 5	paca	paca	ADV	_	AdvType=Tim	7	advmod:tmod	_	Gloss=in-future
 6	na	na	PART	_	Polarity=Neg	7	advmod:neg	_	Gloss=not
 7	arabhiśaṃti	arabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed
@@ -1153,7 +1153,7 @@
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Gloss=even
 3	cu	cu	CCONJ	_	_	1	cc	_	Gloss=but|Orig=c[u]
 4	tini	tini	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	nummod	_	Gloss=three
-5	pānāni	pāna	NOUN	_	Case=Acc|Gender=Masc|Number=Plural	7	obj	_	Gloss=animals|Orig=pānā[n]i
+5	pānāni	pāna	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	Gloss=animals|Orig=pānā[n]i
 6	no	no	PART	_	Polarity=Neg	7	advmod	_	Gloss=not
 7	alābhiyisaṃti	alābhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed|Orig=alābhi[y]isa[ṃ]ti
 
@@ -1285,7 +1285,7 @@
 2	pi	pi	ADV	_	_	1	advmod:emph	_	_
 3	cu	cu	CCONJ	_	_	1	cc	_	_
 4	tini	tini	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	nummod	_	Orig=[tini]
-5	praṇani	praṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plural	8	obj	_	_
+5	praṇani	praṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
 6	paca	paca	ADV	_	AdvType=Tim	8	advmod:tmod	_	_
 7	no	no	PART	_	Polarity=Neg	8	advmod:neg	_	_
 8	arabhi	arabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Orig=ara[bhi]
