@@ -551,7 +551,7 @@
 9	hīni	hīni	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
 10	ca	ca	CCONJ	_	_	12	cc	_	Orig=c[a]
 11	no	no	ADV	_	Polarity=Neg	12	advmod	_	Orig=[no]
-12	locetavyā	loca	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	8	conj	_	_
+12	locetavyā	loca	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	8	conj	_	_
 
 # sent_id = girnar-4-11
 # text = dbādasa-vāsābhisitena Devānaṃpriyena Priyadasinā rāñā idam lekhapitam
@@ -808,7 +808,7 @@
 3	kici	kici	DET	_	PronType=Ind	4	det	_	Gloss=any
 4	jive	jiva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	Gloss=living-being
 5	arabhitu	arabha	VERB	_	VerbForm=Conv	6	advcl	_	Gloss=be-killed-and|Orig=ara[bhitu]
-6	prayuhotave	prayuho	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed|Orig=[p]rayuhotave
+6	prayuhotave	prayuho	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed|Orig=[p]rayuhotave
 
 # sent_id = shahbazgarhi-1-3
 # text = no pi ca samaja kaṭava
@@ -817,7 +817,7 @@
 2	pi	pi	ADV	_	_	5	advmod:emph	_	Gloss=also
 3	ca	ca	CCONJ	_	_	5	cc	_	Gloss=and|Orig=c[a]
 4	samaja	samaja	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	obj	_	Gloss=festival-meetings|Orig=sama[ja]
-5	kaṭava	karo	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
+5	kaṭava	karo	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
 
 # sent_id = shahbazgarhi-1-4
 # text = bahuka hi dośa samayaspi Devaṇapriye Priadraśi raya dakhati
@@ -1049,7 +1049,7 @@
 3	kici	kici	DET	_	PronType=Ind	4	det	_	Gloss=any
 4	jive	jiva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	Gloss=living-being
 5	ālabhitu	ālabha	VERB	_	VerbForm=Conv	6	advcl	_	Gloss=be-killed-and
-6	pajohitaviye	pajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed
+6	pajohitaviye	pajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed
 
 # sent_id = kalsi-1-3
 # text = no pi ca samāje kaṭaviye
@@ -1058,7 +1058,7 @@
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Gloss=also
 3	ca	ca	CCONJ	_	_	1	cc	_	Gloss=and|Orig=c[a]
 4	samāje	samāja	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Gloss=festival_meeting
-5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
+5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
 
 # sent_id = kalsi-1-4
 # text = bahukā hi dosā samājasā Devānaṃpiye Piyadasī lājā dakhati
@@ -1181,7 +1181,7 @@
 3	kichi	kichi	DET	_	PronType=Ind	4	det	_	_
 4	jive	jiva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	Orig=ji[ve]
 5	arabhitu	arabha	VERB	_	VerbForm=Conv	6	advcl	_	Orig=ara[bhitu]
-6	prajohitaviye	prajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Orig=pra[johi]taviye
+6	prajohitaviye	prajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Orig=pra[johi]taviye
 
 # sent_id = mansehra-1-3
 # text = no pi ca samaje kaṭaviye
@@ -1190,7 +1190,7 @@
 2	pi	pi	ADV	_	_	5	advmod:emph	_	_
 3	ca	ca	CCONJ	_	_	5	cc	_	Orig=[ca]
 4	samaje	samaja	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Orig=samaj[e]
-5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	_
+5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	_
 
 # sent_id = mansehra-1-4
 # text = bahuka hi doṣa samajasa Devanaṃpriye Priyadraśi raja dakhati
@@ -1316,7 +1316,7 @@
 3	kichi	kichi	DET	_	PronType=Ind	4	det	_	Gloss=any
 4	jāvaṃ	jāva	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Gloss=living-being
 5	ālabhitu	ālabha	VERB	_	VerbForm=Conv	6	advcl	_	Gloss=be-killed-and|Orig=ālabhi[t]u
-6	pajohitaviye	pajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed
+6	pajohitaviye	pajoha	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-sacrificed
 
 # sent_id = jaugada-1-3
 # text = no pi ca samaje kaṭaviye
@@ -1325,7 +1325,7 @@
 2	pi	pi	ADV	_	_	5	advmod:emph	_	Gloss=also
 3	ca	ca	CCONJ	_	_	5	cc	_	Gloss=and
 4	samaje	samaja	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Gloss=festival-meeting
-5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
+5	kaṭaviye	karo	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	0	root	_	Gloss=must-be-held
 
 # sent_id = jaugada-1-4
 # text = bahukaṃ hi dosaṃ samājasa drakhati Devānaṃpiye Piyadasī lājā

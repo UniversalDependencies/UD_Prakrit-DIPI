@@ -30,7 +30,7 @@
     <tag name="X">15</tag><!-- ..., _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="46">
+  <feats unique="45">
     <feat name="AdvType" value="Loc" upos="ADV">14</feat><!-- sarvata, hida, savratra, hidā, idha, sarvatra, sarvatrā, savatra -->
     <feat name="AdvType" value="Man" upos="ADV">13</feat><!-- sādhu, dhruvam, dhruvaṃ, dhruve, dhruvo, dhuvaṃ, hetuto, sadhu, sasu, tathā -->
     <feat name="AdvType" value="Tim" upos="ADV">15</feat><!-- aja, pura, paca, pachā, idani, idāni, pule, puluvaṃ -->
@@ -63,8 +63,7 @@
     <feat name="PronType" value="Prs" upos="DET,PRON">15</feat><!-- te, mayā, so, mama, me, yo -->
     <feat name="PronType" value="Rel" upos="ADV,PRON">11</feat><!-- ye, ya, yo, da, yāni -->
     <feat name="PronType" value="Tot" upos="DET">5</feat><!-- anu -->
-    <feat name="Tense" value="Fut" upos="VERB">12</feat><!-- alābhiyisaṃti, anusāsisaṃti, anuvatisare, arabhi, arabhiśaṃti, hāpesati, katavyo, prajūhitavyaṃ, pravadhayisaṃti, vaḍhayisati -->
-    <feat name="Tense" value="Future" upos="VERB">9</feat><!-- kaṭaviye, pajohitaviye, kaṭava, locetavyā, prajohitaviye, prayuhotave -->
+    <feat name="Tense" value="Fut" upos="VERB">21</feat><!-- kaṭaviye, pajohitaviye, alābhiyisaṃti, anusāsisaṃti, anuvatisare, arabhi, arabhiśaṃti, hāpesati, katavyo, kaṭava -->
     <feat name="Tense" value="Imp" upos="VERB">1</feat><!-- aho -->
     <feat name="Tense" value="Past" upos="VERB">45</feat><!-- abhisitena, likhitā, matā, hārāpitāni, katā, lekhitā, likhita, ropāpitāni, vaḍhite, alaṃbhiyisu -->
     <feat name="Tense" value="Pres" upos="VERB">24</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, bhavati, drakhati, karoti -->
