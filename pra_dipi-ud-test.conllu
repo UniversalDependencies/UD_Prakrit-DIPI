@@ -303,12 +303,12 @@
 5	ca	ca	CCONJ	_	_	4	cc	_	_
 6	susrūsā	susrūsā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 7-9	mitra-saṃstuta-ñātīnaṃ	_	_	_	_	_	_	_	_
-7	mitra	mitra	NOUN	_	Compound=Yes|Gender=Masc	9	conj	_	_
-8	saṃstuta	saṃstuta	ADJ	_	Compound=Yes	9	conj	_	_
-9	ñātīnaṃ	ñāti	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+7	mitra	mitra	NOUN	_	Compound=Yes|Gender=Masc	13	nmod	_	_
+8	saṃstuta	saṃstuta	ADJ	_	Compound=Yes	7	conj	_	_
+9	ñātīnaṃ	ñāti	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	conj	_	_
 10-11	bāmhaṇa-samaṇānaṃ	_	_	_	_	_	_	_	_
-10	bāmhaṇa	bāmhaṇa	NOUN	_	Compound=Yes|Gender=Masc	11	conj	_	_
-11	samaṇānaṃ	samaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	_
+10	bāmhaṇa	bāmhaṇa	NOUN	_	Compound=Yes|Gender=Masc	9	conj	_	_
+11	samaṇānaṃ	samaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
 12	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	Orig=sādh[u]
 13	dānaṃ	dāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	Orig=[d]ānaṃ
 14	prāṇānaṃ	prāṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
@@ -351,8 +351,8 @@
 13	ñātīsu	ñāti	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	_
 14	asaṃpratipatī	asaṃpratipati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	Orig=a[s]aṃpratipatī
 15-16	brāmhaṇa-sramaṇānāṃ	_	_	_	_	_	_	_	_
-15	brāmhaṇa	brāmhaṇa	NOUN	_	Compound=Yes|Gender=Masc	16	conj	_	Orig=brā[m]haṇa
-16	sramaṇānāṃ	sramaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	_
+15	brāmhaṇa	brāmhaṇa	NOUN	_	Compound=Yes|Gender=Masc	17	nmod	_	Orig=brā[m]haṇa
+16	sramaṇānāṃ	sramaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	conj	_	_
 17	asaṃpratīpatī	asaṃpratīpati	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	conj	_	_
 
 # sent_id = girnar-4-2
@@ -702,19 +702,19 @@
 # text = Yoṇa-Kaṃboja-Gaṃdhārānaṃ Risṭika-Peteṇikānaṃ ye vā pi aṃñe āparātā bhata mayesu vā ... sukhāya dhaṃma-yutānaṃ aparigodhāya vyāpatā te
 # orig = Yoṇa-K[a]ṃbo[ja]-Gaṃdhārānaṃ Risṭika-P[e]teṇikānaṃ ye vā pi a[ṃ]ñe [ā]parātā bhata mayesu vā ... [su]khā[ya dhaṃma]-yutānaṃ apar[i]godhāya vyāpatā te
 1-3	Yoṇa-Kaṃboja-Gaṃdhārānaṃ	_	_	_	_	_	_	_	Orig=Yoṇa-K[a]ṃbo[ja]-Gaṃdhārānaṃ
-1	Yoṇa	Yoṇa	PROPN	_	Compound=Yes|Gender=Masc	3	conj	_	_
-2	Kaṃboja	Kaṃboja	PROPN	_	Compound=Yes|Gender=Masc	3	conj	_	Orig=K[a]ṃbo[ja]
-3	Gaṃdhārānaṃ	Gaṃdhāra	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+1	Yoṇa	Yoṇa	PROPN	_	Compound=Yes|Gender=Masc	12	nmod	_	_
+2	Kaṃboja	Kaṃboja	PROPN	_	Compound=Yes|Gender=Masc	1	conj	_	Orig=K[a]ṃbo[ja]
+3	Gaṃdhārānaṃ	Gaṃdhāra	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	_
 4-5	Risṭika-Peteṇikānaṃ	_	_	_	_	_	_	_	Orig=Risṭika-P[e]teṇikānaṃ
-4	Risṭika	Risṭika	PROPN	_	Compound=Yes|Gender=Masc	5	conj	_	_
-5	Peteṇikānaṃ	Peteṇika	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	Orig=P[e]teṇikānaṃ
+4	Risṭika	Risṭika	PROPN	_	Compound=Yes|Gender=Masc	3	conj	_	_
+5	Peteṇikānaṃ	Peteṇika	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	Orig=P[e]teṇikānaṃ
 6	ye	yo	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	3	conj	_	_
 7	vā	vā	CCONJ	_	_	6	cc	_	_
 8	pi	pi	ADV	_	_	6	discourse	_	_
 9	aṃñe	aṃña	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	10	amod	_	Orig=a[ṃ]ñ[e]
 10	āparātā	aparāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	acl:relcl	_	Orig=[ā]parātā
-11	bhata	bhata	NOUN	_	Compound=Yes|Gender=Masc	12	conj	_	_
-12	mayesu	maya	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	_
+11	bhata	bhata	NOUN	_	Compound=Yes|Gender=Masc	19	obl	_	_
+12	mayesu	maya	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	11	conj	_	_
 13	vā	vā	CCONJ	_	_	12	cc	_	_
 14	...	...	X	_	_	12	orphan	_	_
 15	sukhāya	sukha	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	19	obl	_	Orig=[su]khā[ya]
@@ -1001,8 +1001,8 @@
 3	khanapita	khanapaya	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	_
 4	pratibhogaye	pratibhoga	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	Orig=pratibh[o]gaye
 5-6	paśu-manuśanaṃ	_	_	_	_	_	_	_	_
-5	paśu	paśu	NOUN	_	Compound=Yes|Gender=Masc	6	conj	_	_
-6	manuśanaṃ	manuśa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+5	paśu	paśu	NOUN	_	Compound=Yes|Gender=Masc	4	nmod	_	_
+6	manuśanaṃ	manuśa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
 
 # sent_id = shahbazgarhi-3-1
 # text = Devanaṃpriyo Priyadraśi raja ahati
