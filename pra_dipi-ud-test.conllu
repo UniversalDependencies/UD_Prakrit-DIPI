@@ -469,7 +469,7 @@
 9-10	dhaṃma-caraṇaṃ	_	_	_	_	_	_	_	Orig=dhaṃma-[ca]raṇaṃ
 9	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	10	compound	_	_
 10	caraṇaṃ	caraṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	Orig=[ca]raṇaṃ
-11	idaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
+11	idaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	Gloss=this
 
 # sent_id = girnar-4-6
 # text = putrā ca potrā ca prapotrā ca Devānaṃpriyasa Priyadasino rāño pravadhayisaṃti idaṃ dhaṃma-caraṇaṃ ava savaṭa-kapā dhaṃmamhi sīlamhi tisṭaṃto dhaṃmaṃ anusāsisaṃti
@@ -488,7 +488,7 @@
 10	dasino	dasin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod:desc	_	_
 11	rāño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 12	pravadhayisaṃti	pravadha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Orig=[pra]vadhayisaṃti
-13	idaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+13	idaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	Gloss=this
 14-15	dhaṃma-caraṇaṃ	_	_	_	_	_	_	_	Orig=[dha]ṃma-caraṇaṃ
 14	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	15	compound	_	Orig=[dha]ṃma
 15	caraṇaṃ	caraṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
