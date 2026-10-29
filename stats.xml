@@ -10,11 +10,11 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>84</sentences><tokens>810</tokens><words>972</words><fused>152</fused></test>
   </size>
-  <lemmas unique="347" /><!-- ca, priya, deva, pi, dhaṃma, piya, dasin, no, rājan, ..., bahu, draśin, karo, sa, samāja -->
+  <lemmas unique="347" /><!-- ca, priya, deva, pi, dhaṃma, piya, dasin, no, ..., rājan, bahu, draśin, karo, sa, samāja -->
   <forms unique="472" /><!-- ca, pi, devānaṃ, dhaṃma, no, priya, ..., piya, priyasa, cu, na, sādhu, dasino, hi, rāño -->
   <fusions unique="105" /><!-- Devānaṃpriyasa, Priyadasino, Priyadraśisa, dhaṃma-lipī, Devānaṃpriyo, anudivasaṃ, dhaṃma-lipi, dhrama-dipi, sādhu-matā, Devanapriasa, Devanapriyasa, Devanaṃpriyasa, Devānaṃpiyasa, Devānaṃpiyasā, Devānaṃpiye -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="13">
+  <tags unique="14">
     <tag name="ADJ">136</tag><!-- priya, piya, dasin, draśin, bahu, pria, sādhu, vyāpata, atikata, aṃña -->
     <tag name="ADP">10</tag><!-- aṭha, atha, athra, ava, paraṃ, ā, āva -->
     <tag name="ADV">84</tag><!-- pi, aja, dhruva, hida, sarvata, pura, sādhu, ta, na, paca -->
@@ -25,12 +25,13 @@
     <tag name="PART">42</tag><!-- no, hi, na, eva, yathā, yeva, _, evam, ti, va -->
     <tag name="PRON">47</tag><!-- idam, ya, etad, so, yo, ahaṃ, aham, ayaṃ, aña, ta -->
     <tag name="PROPN">22</tag><!-- Aṃtiyaka, Aṃtiyoka, Coḍa, Taṃbapaṃṇin, Gaṃdhāra, Kaṃboja, Keraḍaputra, Ketalaputa, Khepiṃgala, Paṃḍiya -->
+    <tag name="PUNCT">14</tag><!-- ... -->
     <tag name="SCONJ">11</tag><!-- yata, yatra, yadā, adā, yada, yārisa -->
     <tag name="VERB">106</tag><!-- karo, arabha, as, likha, abhisiñca, vaḍha, ārabha, dakha, lekha, nās -->
-    <tag name="X">15</tag><!-- ..., _ -->
+    <tag name="X">1</tag><!-- ... -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="43">
+  <feats unique="39">
     <feat name="AdvType" value="Loc" upos="ADV">14</feat><!-- sarvata, hida, savratra, hidā, idha, sarvatra, sarvatrā, savatra -->
     <feat name="AdvType" value="Man" upos="ADV">13</feat><!-- sādhu, dhruvam, dhruvaṃ, dhruve, dhruvo, dhuvaṃ, hetuto, sadhu, sasu, tathā -->
     <feat name="AdvType" value="Tim" upos="ADV">15</feat><!-- aja, pura, paca, pachā, idani, idāni, pule, puluvaṃ -->
@@ -41,22 +42,19 @@
     <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">113</feat><!-- devānaṃ, priyasa, dasino, rāño, draśisa, devana, devanaṃ, lājine, raño, piyasa -->
     <feat name="Case" value="Ins" upos="ADJ,NOUN,NUM,PRON,VERB">28</feat><!-- abhisitena, dasinā, mayā, priyena, piyena, anusasṭiyā, bahūhi, caraṇena, draśina, lājina -->
     <feat name="Case" value="Loc" upos="ADJ,NOUN,NUM,PRON,PROPN">36</feat><!-- mahanasasi, mahānasasi, pavatasi, paṃcasu, pitari, vijite, Khepiṃgalasi, Pāṭalipute, athamhi, aṃñe -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">274</feat><!-- rājā, sādhu, te, ye, dasi, dipi, lipī, mige, priyo, so -->
-    <feat name="Case" value="Num" upos="NUM">2</feat><!-- tiṃni, trayo -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">276</feat><!-- rājā, sādhu, te, ye, dasi, dipi, lipī, mige, priyo, so -->
     <feat name="Compound" value="Yes" upos="ADJ,DET,NOUN,NUM,PROPN">117</feat><!-- dhaṃma, priya, piya, vāsa, dhrama, manusa, pasu, paśu, praṇa, pria -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,VERB">63</feat><!-- dipi, lipī, cikisa, iyaṃ, likhitā, lipi, lekhitā, likhita, saṃpaṭipatī, susrusā -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">463</feat><!-- devānaṃ, dhaṃma, priya, piya, priyasa, dasino, rāño, draśisa, devana, praṇa -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">102</feat><!-- bahuni, bahūni, divasaṃ, jive, sata, atikataṃ, aṃtaraṃ, caraṇe, dukaraṃ, hārāpitāni -->
-    <feat name="Gender" value="Nom" upos="ADJ">1</feat><!-- asīlasa -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">103</feat><!-- bahuni, bahūni, divasaṃ, jive, sata, atikataṃ, aṃtaraṃ, caraṇe, dukaraṃ, hārāpitāni -->
     <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- niyātu, yujaṃtu -->
-    <feat name="Mood" value="Ind" upos="VERB">40</feat><!-- asti, dakhati, athi, kāsati, nāsti, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
-    <feat name="Mood" value="Plur" upos="VERB">1</feat><!-- ālaṃbhiyaṃti -->
+    <feat name="Mood" value="Ind" upos="VERB">42</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
     <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">185</feat><!-- devānaṃ, devana, te, devanaṃ, vyāpatā, cikisa, mahāmātā, matā, pānāni, samājā -->
     <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">365</feat><!-- priyasa, dasino, rāño, draśisa, rājā, sādhu, ye, abhisitena, dasi, dasinā -->
     <feat name="NumType" value="Card" upos="NUM">31</feat><!-- duve, eke, tini, tiṃni, dbādasa, duvi, paṃcasu, badaya, dve, dvo -->
     <feat name="Person" value="1" upos="PRON">2</feat><!-- mama, mayā -->
     <feat name="Person" value="3" upos="VERB">44</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
-    <feat name="Polarity" value="Neg" upos="ADV,NOUN,PART">26</feat><!-- no, na, pānāni -->
+    <feat name="Polarity" value="Neg" upos="ADV,PART">25</feat><!-- no, na -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">39</feat><!-- iyaṃ, ayaṃ, etāya, se, aya, ayi, esa, etāni, idaṃ, so -->
     <feat name="PronType" value="Ind" upos="DET,PRON">10</feat><!-- ekatiyā, kichi, kici, ekacā, ekatia, ekatiya, kiṃci -->
     <feat name="PronType" value="Prs" upos="DET,PRON">15</feat><!-- te, mayā, so, mama, me, yo -->
@@ -70,13 +68,12 @@
     <feat name="VerbForm" value="Fin" upos="VERB">44</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
     <feat name="VerbForm" value="Part" upos="VERB">52</feat><!-- abhisitena, kaṭaviye, likhitā, matā, hārāpitāni, katā, lekhitā, likhita, pajohitaviye, ropāpitāni -->
     <feat name="Voice" value="Act" upos="VERB">29</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, anusāsisaṃti, bhavati -->
-    <feat name="Voice" value="Cau,Pass" upos="VERB">17</feat><!-- hārāpitāni, ropāpitāni, aṇapitaṃ, harapita, khanapita, khānāpitā, lekhapitam, lekhitā, lekhāpitaṃ, lekhāpitā -->
-    <feat name="Voice" value="Caus,Pass" upos="VERB">2</feat><!-- lekhitā, likhita -->
+    <feat name="Voice" value="Cau,Pass" upos="VERB">19</feat><!-- hārāpitāni, lekhitā, ropāpitāni, aṇapitaṃ, harapita, khanapita, khānāpitā, lekhapitam, lekhāpitaṃ, lekhāpitā -->
     <feat name="Voice" value="Mid" upos="VERB">1</feat><!-- anuvatisare -->
     <feat name="Voice" value="Pass" upos="VERB">47</feat><!-- abhisitena, kaṭaviye, likhitā, matā, katā, pajohitaviye, vaḍhite, alabhiyaṃti, alaṃbhiyisu, alābhiyisaṃti -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="31">
+  <deps unique="32">
     <dep name="acl">6</dep>
     <dep name="acl:relcl">11</dep>
     <dep name="advcl">16</dep>
@@ -104,8 +101,9 @@
     <dep name="obl">35</dep>
     <dep name="obl:lmod">11</dep>
     <dep name="obl:tmod">15</dep>
-    <dep name="orphan">23</dep>
+    <dep name="orphan">9</dep>
     <dep name="parataxis">11</dep>
+    <dep name="punct">14</dep>
     <dep name="root">84</dep>
     <dep name="xcomp">1</dep>
   </deps>
