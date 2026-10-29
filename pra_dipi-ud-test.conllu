@@ -604,7 +604,7 @@
 # orig = / ta mayā bahu kalāṇaṃ kataṃ
 1	ta	ta	CCONJ	_	_	5	advmod	_	Gloss=now
 2	mayā	ahaṃ	PRON	_	Case=Ins|Number=Sing|PronType=Prs	5	nsubj	_	Gloss=I
-3	bahu	bahu	DET	_	Compound=Yes|Gender=Neut	4	det	_	Gloss=many
+3	bahu	bahu	DET	_	Compound=Yes|Gender=Neut|PronType=Ind	4	det	_	Gloss=many
 4	kalāṇaṃ	kalāṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	Gloss=virtuous-deeds
 5	kataṃ	karo	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Gloss=have-done
 
