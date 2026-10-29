@@ -894,7 +894,7 @@
 9	trayo	trayas	NUM	_	Case=Num|Gender=Masc|NumType=Card	11	nummod	_	Gloss=three
 10	vo	vo	PART	_	_	9	advmod:emph	_	Gloss=only
 11	praṇa	praṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	obj	_	Gloss=animals
-12	haṃñaṃti	haṃña	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Present|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=haṃñaṃt[i]
+12	haṃñaṃti	haṃña	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=haṃñaṃt[i]
 13	majura	majura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	parataxis	_	Gloss=peacocks
 14	duvi	duva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	nummod	_	Gloss=two|Orig=duv[i]
 15	mrugo	mruga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	Gloss=deer
@@ -1134,7 +1134,7 @@
 9	tiṃni	tiṃni	NUM	_	NumType=Card	11	nummod	_	Gloss=three
 10	yevā	yevā	PART	_	_	9	advmod:emph	_	Gloss=only
 11	pānāni	pāna	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	obj	_	Gloss=animals
-12	alabhiyaṃti	alabhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Present|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=alabhi[yaṃ]ti
+12	alabhiyaṃti	alabhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=alabhi[yaṃ]ti
 13	duve	duva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	14	nummod	_	Gloss=two
 14	majūlā	majūla	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	parataxis	_	Gloss=peacocks|Orig=majūl[ā]
 15	eke	eka	NUM	_	Case=Nom|Gender=Masc|NumType=Card	16	nummod	_	Gloss=one
@@ -1266,7 +1266,7 @@
 8	tini	tini	NUM	_	NumType=Card	10	nummod	_	Orig=ti[ni]
 9	yeva	yeva	PART	_	_	8	advmod:emph	_	Orig=y[eva]
 10	praṇani	praṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	obj	_	Orig=pra[ṇa]ni
-11	arabhiyaṃti	arabhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Present|VerbForm=Fin|Voice=Pass	0	root	_	Orig=[ara]bh[iyaṃti]
+11	arabhiyaṃti	arabhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Orig=[ara]bh[iyaṃti]
 12	duve	duva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	nummod	_	Orig=du[v]e
 13	majura	majura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	_
 14	eke	eka	NUM	_	Case=Nom|Gender=Masc|NumType=Card	15	nummod	_	Orig=[e]k[e]
@@ -1401,7 +1401,7 @@
 8	tiṃni	tiṃni	NUM	_	Case=Num|Gender=Neut|NumType=Card	10	nummod	_	Gloss=three
 9	yeva	yeva	PART	_	_	8	advmod:emph	_	Gloss=only
 10	pānāni	pāna	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	Gloss=animals
-11	ālaṃbhiyaṃti	ālaṃbhiya	VERB	_	Mood=Plur|Number=Plur|Person=3|Tense=Present|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=āla[ṃ]bhiyaṃti
+11	ālaṃbhiyaṃti	ālaṃbhiya	VERB	_	Mood=Plur|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=āla[ṃ]bhiyaṃti
 12	duve	duva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	nummod	_	Gloss=two
 13	majūlā	majūla	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	Gloss=peacocks
 14	eke	eka	NUM	_	Case=Nom|Gender=Masc|NumType=Card	15	nummod	_	Gloss=one
