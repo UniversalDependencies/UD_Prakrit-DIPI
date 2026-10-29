@@ -75,7 +75,7 @@
 3-4	Devānaṃpriyasa	_	_	_	_	_	_	_	_
 3	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Gloss=of-the-Gods
 4	priyasa	priya	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod:desc	_	Gloss=beloved
-5-7	Priyadasino	_	_	_	_	_	_	_	_
+5-6	Priyadasino	_	_	_	_	_	_	_	_
 5	priya	priya	ADJ	_	Compound=Yes|Gender=Masc	6	amod	_	Gloss=friendly|Orig=priy[a]
 6	dasino	dasin	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod:desc	_	Gloss=looking
 7	rāño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	Gloss=by-king
@@ -121,7 +121,7 @@
 22	dhruvo	dhruva	ADV	_	AdvType=Man	20	orphan	_	Gloss=regularly
 
 # sent_id = girnar-1-8
-# text = ete pi tri prāṇā pachā na ārabhisare
+# text = ete pi trī prāṇā pachā na ārabhisare
 # orig = ete pi tri prāṇā pachā na ārabhisare
 1	ete	eta	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	Gloss=these
 2	pi	pi	ADV	_	_	1	discourse	_	Gloss=even
@@ -132,7 +132,7 @@
 7	ārabhisare	ārabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed
 
 # sent_id = girnar-2-1
-# text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño evamapi pracaṃtesu yathā Coḍa Pāḍā Satiyaputo Ketalaputo ā Taṃbapaṃṇī Aṃtiyako Yona-rājā ye va pi tasa Aṃtiyakasa sāmīpaṃ rājāno sarvatra Devānaṃpriyasa Priyadasino rāño dve cikīcha katā manusa-cīkichā ca pasu-cikīchā ca
+# text = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño evamapi pracaṃtesu yathā Coḍa Pāḍā Satiyaputo Ketalaputo ā Taṃbapaṃṇī Aṃtiyako Yona-rājā ye vā pi tasa Aṃtiyakasa sāmīpaṃ rājāno sarvatra Devānaṃpriyasa Priyadasino rāño dve cikīcha katā manusa-cīkichā ca pasu-cikīchā ca
 # orig = sarvata vijitamhi Devānaṃpriyasa Piyadasino rāño / evamapi pracaṃtesu yathā Coḍa Pāḍā Satiyaputo Ketalaputo ā Taṃba/paṃṇī Aṃtiyako Yona-rājā ye va pi tasa Aṃtiy[a]kas[a] sāmīp[aṃ] / rājāno sarvatra Devānaṃpriyasa Priyadasino rāño dve cikīcha katā / manusa-cīkichā ca pasu-cikīchā ca
 1	sarvata	sarvata	ADV	_	AdvType=Loc	35	advmod:lmod	_	Gloss=everywhere
 2	vijitamhi	vijita	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	Gloss=in-the-dominion
@@ -239,7 +239,7 @@
 10	manusānaṃ	manusa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	Gloss=of-men
 
 # sent_id = girnar-3-1
-# text = Devānampiyo Piyadasi rājā evam āha
+# text = Devānaṃpiyo Piyadasi rājā evam āha
 # orig = Devānampiyo Piyadasi r[ā]jā evam āha
 1-2	Devānaṃpiyo	_	_	_	_	_	_	_	_
 1	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
@@ -310,7 +310,7 @@
 11	samaṇānaṃ	samaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	_
 12	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	Orig=sādh[u]
 13	dānaṃ	dāna	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	Orig=[d]ānaṃ
-14	prāṇānaṁ	prāṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
+14	prāṇānaṃ	prāṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	_
 15	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 16	anāraṃbho	anāraṃbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
 17	apavyayatā	apavyayatā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
@@ -318,7 +318,7 @@
 19	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	parataxis	_	_
 
 # sent_id = girnar-3-5
-# text = parisa pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca
+# text = parisā pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca
 # orig = / parisa pi yute āñapayisati gaṇanāyaṃ hetuto ca vyaṃjanato ca
 1	parisā	parisad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 2	pi	pi	ADV	_	_	1	discourse	_	_
@@ -331,7 +331,7 @@
 9	ca	ca	CCONJ	_	_	8	cc	_	_
 
 # sent_id = girnar-4-1
-# text = atikataṃ aṃtaraṃ bahūni vāsa-satāni vaḍhito eva praṇāraṃbho vihiṃsa ca bhūtānāṃ ñātīsu asaṃpratipati brāmhaṇa-sramaṇānāṃ asaṃpratīpatī
+# text = atikataṃ aṃtaraṃ bahūni vāsa-satāni vaḍhito eva praṇāraṃbho vihiṃsa ca bhūtānāṃ ñātīsu asaṃpratipatī brāmhaṇa-sramaṇānāṃ asaṃpratīpatī
 # orig = / atikataṃ aṃt[a]raṃ bahūni vāsa-satāni vaḍhito eva praṇāraṃbho vihiṃsa ca bhūtānāṃ ñātīsu / a[s]aṃpratipati brā[m]haṇa-sramaṇānāṃ asaṃpratīpatī
 1	atikataṃ	atikata	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	_
 2	aṃtaraṃ	aṃtara	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl:tmod	_	Orig=aṃt[a]raṃ
@@ -393,10 +393,10 @@
 26	divyāni	divya	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	27	compound	_	_
 27	rūpāni	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	16	conj	_	_
 28	dasayitpā	dasaya	VERB	_	VerbForm=Conv	12	advcl	_	_
-29	janaṁ	jana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
+29	janaṃ	jana	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	_
 
 # sent_id = girnar-4-3
-# text = yārise bahūhi vāsasatehi na bhūta-puve tarise aja vaḍhite Devānaṃpriyasa Priyadasino rāño dhaṃmānusasṭiyā anāraṃbho prāṇānaṃ avihāsā bhūtānaṃ ñātīnaṃ saṃpaṭipatī bramhaṇa-sarnaṇānaṃ saṃpaṭipatī mātari pitari susrusā thaira-susrusā
+# text = yārise bahūhi vāsasatehi na bhūta-puve tarise aja vaḍhite Devānaṃpriyasa Priyadasino rāño dhaṃmānusasṭiyā anāraṃbho prāṇānaṃ avihāsā bhūtānaṃ ñātīnaṃ saṃpaṭipatī bramhaṇa-samaṇānaṃ saṃpaṭipatī mātari pitari susrusā thaira-susrusā
 # orig = yārise bahūhi v[āsa]satehi / na bhūta-puve tarise aja vaḍhite Devānaṃpriyasa Priyadasino rāño dhaṃmānusasṭiyā anāraṃ/[bh]o prāṇānaṃ avihāsā bhūtānaṃ ñātīnaṃ saṃpaṭipatī bramhaṇa-sarnaṇānaṃ saṃpaṭipatī mātari pitari / [s]usrusā thaira-susrusā
 1	yārise	yārisa	SCONJ	_	_	8	mark	_	_
 2	bahūhi	bahu	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	5	amod	_	_
