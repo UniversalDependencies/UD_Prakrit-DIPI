@@ -86,7 +86,7 @@
 11-13	prāṇa-sata-sahasrāni	_	_	_	_	_	_	_	_
 11	prāṇa	prāṇa	NOUN	_	Compound=Yes|Gender=Masc	12	nmod	_	Gloss=living
 12	sata	sata	NOUN	_	Compound=Yes|Gender=Neut	13	nmod	_	Gloss=being
-13	sahasrāni	sahasra	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Gloss=hundred-thousands-of
+13	sahasrāni	sahasra	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	14	obj	_	Gloss=hundred-thousands-of
 14	ārabhisu	ārabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 15-16	sūpāthāya	_	_	_	_	_	_	_	_
 15	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
@@ -103,7 +103,7 @@
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality|Orig=dha[ṃ]ma
 6	lipī	lipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Gloss=rescript|Orig=lip[ī]
 7	likhitā	likha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	Gloss=is-written
-8	tī	ti	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Plur	10	nummod	_	Gloss=three
+8	tī	ti	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	10	nummod	_	Gloss=three
 9	eva	eva	PART	_	_	8	advmod:emph	_	Gloss=only
 10	prāṇā	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	obj	_	Gloss=animals
 11	ārabhare	ārabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed
@@ -275,8 +275,8 @@
 7	ca	ca	CCONJ	_	_	6	cc	_	_
 8	prādesike	prādesika	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	_
 9	ca	ca	CCONJ	_	_	8	cc	_	_
-10	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|NumType=Card|Number=Plur	12	nummod	_	_
-11	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|NumType=Card|Number=Plur	10	compound:redup	_	_
+10	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|Number=Plur|NumType=Card	12	nummod	_	_
+11	paṃcasu	paṃca	NUM	_	Case=Loc|Gender=Masc|Number=Plur|NumType=Card	10	compound:redup	_	_
 12	vāsesu	vāsa	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	14	obl:tmod	_	_
 13	anusaṃyānaṃ	anusaṃyāna	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl:lmod	_	Orig=anusaṃy[ā]na[ṃ]
 14	niyātu	niyā	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Orig=[n]iyātu
@@ -873,7 +873,7 @@
 11-13	praṇa-sata-sahasani	_	_	_	_	_	_	_	_
 11	praṇa	praṇa	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	Gloss=living|Orig=pra[ṇa]
 12	sata	sata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Gloss=being
-13	sahasani	sahasa	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Gloss=hundred-thousands-of
+13	sahasani	sahasa	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	14	obj	_	Gloss=hundred-thousands-of
 14	arabhiyisu	arabhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed|Orig=[arabhi]yis[u]
 15-16	supaṭhaye	_	_	_	_	_	_	_	_
 15	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
@@ -1113,7 +1113,7 @@
 10	bahuni	bahu	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	12	amod	_	Gloss=many|Orig=bah[ū]ni
 11-12	pāta-sahasāni	_	_	_	_	_	_	_	_
 11	pāta	pāta	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	Gloss=animal
-12	sahasāni	sahasa	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Plur	13	obj	_	Gloss=hundred-thousands-of
+12	sahasāni	sahasa	NUM	_	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	13	obj	_	Gloss=hundred-thousands-of
 13	alaṃbhiyisu	alaṃbhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 14-15	supaṭhāye	_	_	_	_	_	_	_	_
 14	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	13	obl	_	Gloss=curry
@@ -1246,7 +1246,7 @@
 11-13	praṇa-śata-sahasrani	_	_	_	_	_	_	_	_
 11	praṇa	praṇa	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	_
 12	śata	śata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Orig=śa[ta]
-13	sahasrani	sahasra	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Orig=sahas[r]ani
+13	sahasrani	sahasra	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	14	obj	_	Orig=sahas[r]ani
 14	arabhisu	arabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Orig=[arabh]isu
 15-16	supathraye	_	_	_	_	_	_	_	_
 15	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	_
