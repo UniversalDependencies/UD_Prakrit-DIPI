@@ -732,7 +732,7 @@
 1	baṃdhana	baṃdhana	NOUN	_	Compound=Yes|Gender=Neut	2	compound	_	Orig=ba[ṃ]dhana
 2	badhasa	badha	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
 3	paṭividhānāya	paṭividhāna	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	obl	_	_
-4	...	...	PUNCT	_	_	2	punct	_	_
+4	...	...	PUNCT	_	_	3	punct	_	_
 5	prajā	prajā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	parataxis	_	Orig=[p]rajā
 6	katābhākāresu	katābhākāra	ADJ	_	Case=Loc|Gender=Neut|Number=Plur	5	conj	_	_
 7	vā	vā	CCONJ	_	_	6	cc	_	_
