@@ -175,7 +175,7 @@
 33	rāño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	36	nsubj	_	Gloss=king
 34	dve	dva	NUM	_	NumType=Card	35	nummod	_	Gloss=two
 35	cikīcha	cikīcha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	36	obj	_	Gloss=medical-treatment
-36	katā	karo	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass|Voice=Pass	0	root	_	Gloss=were-established
+36	katā	karo	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Gloss=were-established
 37-38	manusa-cīkichā	_	_	_	_	_	_	_	_
 37	manusa	manusa	NOUN	_	Compound=Yes|Gender=Masc	38	nmod	_	Gloss=man
 38	cīkichā	cīkicha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	appos	_	Gloss=medical-treatment
@@ -678,7 +678,7 @@
 6-7	dhaṃmamahāmātā	_	_	_	_	_	_	_	Orig=dhaṃm[a]mahāmātā
 6	dhaṃma	dhaṃma	NUM	_	Compound=Yes|Gender=Masc	7	compound	_	Orig=dhaṃm[a]
 7	mahāmātā	mahāmāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	obj	_	_
-8	katā	karo	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass|Voice=Pass	0	root	_	_
+8	katā	karo	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 
 # sent_id = girnar-5-10
 # text = te sava-pāsaṃḍesu vyāpatā dhāmadhisṭānāya ... dhaṃma-yutasa ca
@@ -957,7 +957,7 @@
 32	raño	rayan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	35	nsubj	_	_
 33	duvi	duva	NUM	_	NumType=Card	34	nummod	_	Orig=du[vi]
 34	cikisa	cikisa	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	obj	_	Orig=cik[i]sa
-35	kriṭa	karo	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass|Voice=Pass	0	root	_	Orig=[kr]i[ṭa]
+35	kriṭa	karo	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Orig=[kr]i[ṭa]
 36-37	manusa-cikisa	_	_	_	_	_	_	_	_
 36	manusa	manusa	NOUN	_	Compound=Yes|Gender=Masc	37	nmod	_	_
 37	cikisa	cikisa	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	34	appos	_	_
