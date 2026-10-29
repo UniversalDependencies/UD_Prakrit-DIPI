@@ -56,7 +56,7 @@
     <feat name="Person" value="3" upos="VERB">44</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">25</feat><!-- no, na -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">39</feat><!-- iyaṃ, ayaṃ, etāya, se, aya, ayi, esa, etāni, idaṃ, so -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">10</feat><!-- ekatiyā, kichi, kici, ekacā, ekatia, ekatiya, kiṃci -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">15</feat><!-- bahuka, bahukaṃ, ekatiyā, kichi, kici, bahukā, ekacā, ekatia, ekatiya, kiṃci -->
     <feat name="PronType" value="Prs" upos="DET,PRON">15</feat><!-- te, mayā, so, mama, me, yo -->
     <feat name="PronType" value="Rel" upos="ADV,PRON">11</feat><!-- ye, ya, yo, da, yāni -->
     <feat name="PronType" value="Tot" upos="DET">5</feat><!-- anu -->

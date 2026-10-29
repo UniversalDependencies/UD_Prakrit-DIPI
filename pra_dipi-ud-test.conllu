@@ -35,7 +35,7 @@
 # sent_id = girnar-1-4
 # text = bahukaṃ hi dosaṃ samājamhi pasati Devānaṃpriyo Priyadasi rājā
 # orig = bahukaṃ hi dosaṃ samājamhi pasati Devānaṃpriyo Priyadasi rājā
-1	bahukaṃ	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Gloss=much
+1	bahukaṃ	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Gloss=much
 2	hi	hi	PART	_	_	5	discourse	_	Gloss=for
 3	dosaṃ	dosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=evil
 4	samājamhi	samāja	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	5	obl:lmod	_	Gloss=in-festival-meetings
@@ -822,7 +822,7 @@
 # sent_id = shahbazgarhi-1-4
 # text = bahuka hi dośa samayaspi Devaṇapriye Priadraśi raya dakhati
 # orig = ba[hu]ka [hi] dośa sa[maya]spi Devaṇapriy[e] Priadraśi ray[a da]khati
-1	bahuka	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Gloss=much|Orig=ba[hu]ka
+1	bahuka	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Gloss=much|Orig=ba[hu]ka
 2	hi	hi	PART	_	_	1	advmod:emph	_	Gloss=for|Orig=[hi]
 3	dośa	dośa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Gloss=evil
 4	samayaspi	samaya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	10	obl:lmod	_	Gloss=in-festival-meetings|Orig=sa[maya]spi
@@ -1063,7 +1063,7 @@
 # sent_id = kalsi-1-4
 # text = bahukā hi dosā samājasā Devānaṃpiye Piyadasī lājā dakhati
 # orig = bahuk[ā] hi dosā samājasā Devān[aṃ]piye Pi[ya]dasī lājā dakhati
-1	bahukā	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Gloss=much|Orig=bahuk[ā]
+1	bahukā	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Gloss=much|Orig=bahuk[ā]
 2	hi	hi	PART	_	_	1	advmod:emph	_	Gloss=for
 3	dosā	dosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Gloss=evil
 4	samājasā	samāja	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	Gloss=in-festival-meetings
@@ -1195,7 +1195,7 @@
 # sent_id = mansehra-1-4
 # text = bahuka hi doṣa samajasa Devanaṃpriye Priyadraśi raja dakhati
 # orig = bahu[ka] hi [doṣa samajasa Devanaṃpriye] Priyadraśi raja [da]kha[ti]
-1	bahuka	bahu	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Orig=bahu[ka]
+1	bahuka	bahu	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Orig=bahu[ka]
 2	hi	hi	PART	_	_	1	advmod:emph	_	_
 3	doṣa	doṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Orig=[doṣa]
 4	samajasa	samaja	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	Orig=[samajasa]
@@ -1330,7 +1330,7 @@
 # sent_id = jaugada-1-4
 # text = bahukaṃ hi dosaṃ samājasa drakhati Devānaṃpiye Piyadasī lājā
 # orig = bahukaṃ hi dosaṃ samājasa drakhati Devānaṃpiye Piyadasī lājā
-1	bahukaṃ	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	Gloss=much
+1	bahukaṃ	bahuka	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Gloss=much
 2	hi	hi	PART	_	_	1	advmod:emph	_	Gloss=for
 3	dosaṃ	dosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=evil
 4	samājasa	samāja	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl:lmod	_	Gloss=festival-meetings
