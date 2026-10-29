@@ -1042,7 +1042,7 @@
 8	lekhitā	lekha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=has-been-caused-to-be-written|Orig=[lekhit]ā
 
 # sent_id = kalsi-1-2
-# text = hidā no kichi jive ālabhitu pajohitaviye
+# text = hidā no kici jive ālabhitu pajohitaviye
 # orig = [h]idā no kichi jive ālabhitu pajohitaviye
 1	hidā	hida	ADV	_	AdvType=Loc	6	advmod:tmod	_	Gloss=here|Orig=[h]idā
 2	no	no	PART	_	Polarity=Neg	6	advmod	_	Gloss=not
@@ -1098,7 +1098,7 @@
 # sent_id = kalsi-1-6
 # text = pule mahānasasi Devānaṃpiyasā Piyadasisā lājine anudivasaṃ bahuni pāta-sahasāni alaṃbhiyisu supaṭhāye
 # orig = / [p]ule mahānasasi Devānaṃpiyasā Piyadasisā lājin[e] anudivasaṃ bahuni pāta-sahasāni alaṃbhiyisu supaṭhāy[e]
-1	[p]ule	pula	ADV	_	AdvType=Tim	13	advmod:tmod	_	Gloss=formerly
+1	pule	pula	ADV	_	AdvType=Tim	13	advmod:tmod	_	Gloss=formerly
 2	mahānasasi	mahāna	NOUN	_	Case=Loc|Gender=Neut	13	obl:lmod	_	Gloss=in-the-kitchen
 3-4	Devānaṃpiyasā	_	_	_	_	_	_	_	_
 3	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	Gloss=of-the-Gods
@@ -1253,7 +1253,7 @@
 16	athraye	athra	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Orig=a[thra]ye
 
 # sent_id = mansehra-1-7
-# text = se ... da ayi dhrama-dipi likhita tada tini yeva praṇani arabhiyaṃti duve majura eke mrige se pi cu mrige no dhruvam
+# text = se da ayi dhrama-dipi likhita tada tini yeva praṇani arabhiyaṃti duve majura eke mrige se pi cu mrige no dhruvam
 # orig = s[e] ... [da] ayi dhrama-dipi likhi[ta] ta[da] ti[ni] y[eva] pra[ṇa]ni [ara]bh[iyaṃti] du[v]e maju/ra [e]k[e] m[r]ig[e] s[e] p[i cu] mrig[e] no dhruvam
 1	se	sa	CCONJ	_	_	11	cc	_	Orig=s[e]
 2	da	yada	ADV	_	PronType=Rel	11	mark	_	Orig=[da]
@@ -1279,7 +1279,7 @@
 21	dhruvam	dhruva	ADV	_	AdvType=Man	19	orphan	_	_
 
 # sent_id = mansehra-1-8
-# text = etani pi cu tini praṇani paca no arabhi ...
+# text = etani pi cu tini praṇani paca no arabhi
 # orig = [e]tani pi cu [tini] praṇani paca no ara[bhi] ...
 1	etani	eta	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	Orig=[e]tani
 2	pi	pi	ADV	_	_	1	advmod:emph	_	_
@@ -1414,7 +1414,7 @@
 21	dhuvaṃ	dhuva	ADV	_	AdvType=Man	19	orphan	_	Gloss=regularly
 
 # sent_id = jaugada-1-8
-# text = etāni pi cu tiṃni pānāni pachā no ālabhiyisamti
+# text = etāni pi cu tiṃni pānāni pachā no ālabhiyisaṃti
 # orig = etāni pi cu tiṃni pānāni / pachā no āla[bh]iyisamti
 1	etāni	eta	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	Gloss=these
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Gloss=even
