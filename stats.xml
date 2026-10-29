@@ -37,7 +37,7 @@
     <feat name="Aspect" value="Perf" upos="VERB">2</feat><!-- āha -->
     <feat name="Case" value="Abl" upos="NOUN">2</feat><!-- kapā -->
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,VERB">57</feat><!-- idaṃ, atikataṃ, aṃtaraṃ, bahuka, bahukaṃ, bahuni, bahūni, caraṇaṃ, dosaṃ, pānāni -->
-    <feat name="Case" value="Dat" upos="ADP,CCONJ,NOUN,PRON">24</feat><!-- athāya, etāya, aṭhāye, adhisṭānāya, anusastiya, aparigodhāya, athraye, añāya, aṭhaye, imāya -->
+    <feat name="Case" value="Dat" upos="CCONJ,NOUN,PRON">18</feat><!-- athāya, etāya, adhisṭānāya, anusastiya, aparigodhāya, añāya, imāya, kaṃmāya, me, paribhogāya -->
     <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">113</feat><!-- devānaṃ, priyasa, dasino, rāño, draśisa, devana, devanaṃ, lājine, raño, piyasa -->
     <feat name="Case" value="Ins" upos="ADJ,NOUN,NUM,PRON,VERB">21</feat><!-- abhisitena, dasinā, mayā, priyena, anusasṭiyā, bahūhi, caraṇena, draśina, rajina, rāña -->
     <feat name="Case" value="Inst" upos="ADJ,NOUN">7</feat><!-- piyena, dasinā, lājina, lājinā, nā, priyena -->
@@ -46,7 +46,7 @@
     <feat name="Case" value="Num" upos="NUM">2</feat><!-- tiṃni, trayo -->
     <feat name="Compound" value="Yes" upos="ADJ,DET,NOUN,NUM,PROPN">117</feat><!-- dhaṃma, priya, piya, vāsa, dhrama, manusa, pasu, paśu, praṇa, pria -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PRON,VERB">63</feat><!-- dipi, lipī, cikisa, iyaṃ, likhitā, lipi, lekhitā, likhita, saṃpaṭipatī, susrusā -->
-    <feat name="Gender" value="Masc" upos="ADJ,ADP,CCONJ,DET,NOUN,NUM,PRON,PROPN,VERB">470</feat><!-- devānaṃ, dhaṃma, priya, piya, priyasa, dasino, rāño, draśisa, athāya, devana -->
+    <feat name="Gender" value="Masc" upos="ADJ,CCONJ,DET,NOUN,NUM,PRON,PROPN,VERB">464</feat><!-- devānaṃ, dhaṃma, priya, piya, priyasa, dasino, rāño, draśisa, devana, praṇa -->
     <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">102</feat><!-- bahuni, bahūni, divasaṃ, jive, sata, atikataṃ, aṃtaraṃ, caraṇe, dukaraṃ, hārāpitāni -->
     <feat name="Gender" value="Nom" upos="ADJ">1</feat><!-- asīlasa -->
     <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- niyātu, yujaṃtu -->
@@ -54,7 +54,7 @@
     <feat name="Mood" value="Plur" upos="VERB">1</feat><!-- ālaṃbhiyaṃti -->
     <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">181</feat><!-- devānaṃ, devana, te, devanaṃ, vyāpatā, cikisa, mahāmātā, matā, samājā, Coḍa -->
     <feat name="Number" value="Plural" upos="NOUN">4</feat><!-- praṇani, pānāni, rājāno, trayo -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,CCONJ,DET,NOUN,PRON,PROPN,VERB">372</feat><!-- priyasa, dasino, rāño, draśisa, athāya, rājā, sādhu, ye, abhisitena, dasi -->
+    <feat name="Number" value="Sing" upos="ADJ,CCONJ,DET,NOUN,PRON,PROPN,VERB">366</feat><!-- priyasa, dasino, rāño, draśisa, rājā, sādhu, ye, abhisitena, dasi, dasinā -->
     <feat name="NumType" value="Card" upos="NUM">31</feat><!-- duve, eke, tini, tiṃni, dbādasa, duvi, paṃcasu, badaya, dve, dvo -->
     <feat name="Person" value="1" upos="PRON">2</feat><!-- mama, mayā -->
     <feat name="Person" value="3" upos="VERB">44</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->

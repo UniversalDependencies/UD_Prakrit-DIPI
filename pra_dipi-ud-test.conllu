@@ -90,7 +90,7 @@
 14	ārabhisu	ārabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 15-16	sūpāthāya	_	_	_	_	_	_	_	_
 15	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
-16	athāya	atha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Gloss=for-the-sake-of
+16	athāya	atha	ADP	_	_	15	case	_	Gloss=for-the-sake-of
 
 # sent_id = girnar-1-7
 # text = se aja yadā ayaṃ dhaṃma-lipī likhitā tī eva prāṇā ārabhare sūpāthāya dvo morā eko mago so pi mago na dhruvo
@@ -109,7 +109,7 @@
 11	ārabhare	ārabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed
 12-13	sūpāthāya	_	_	_	_	_	_	_	_
 12	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	11	obl	_	Gloss=curry
-13	athāya	atha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	12	case	_	Gloss=for-the-sake-of
+13	athāya	atha	ADP	_	_	12	case	_	Gloss=for-the-sake-of
 14	dvo	dva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	15	nummod	_	Gloss=two
 15	morā	mora	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	Gloss=peacocks
 16	eko	eka	NUM	_	Case=Nom|Gender=Masc|NumType=Card	17	nummod	_	Gloss=one
@@ -877,7 +877,7 @@
 14	arabhiyisu	arabhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed|Orig=[arabhi]yis[u]
 15-16	supaṭhaye	_	_	_	_	_	_	_	_
 15	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
-16	aṭhaye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Gloss=for-the-sake-of|Orig=aṭhay[e]
+16	aṭhaye	aṭha	ADP	_	_	15	case	_	Gloss=for-the-sake-of|Orig=aṭhay[e]
 
 # sent_id = shahbazgarhi-1-7
 # text = so idani yada aya dhrama-dipi likhita tada trayo vo praṇa haṃñaṃti majura duvi mrugo so pi mrugo no dhruvaṃ
@@ -1117,7 +1117,7 @@
 13	alaṃbhiyisu	alaṃbhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 14-15	supaṭhāye	_	_	_	_	_	_	_	_
 14	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	13	obl	_	Gloss=curry
-15	aṭhāye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	case	_	Gloss=for-the-sake-of|Orig=aṭhāy[e]
+15	aṭhāye	aṭha	ADP	_	_	14	case	_	Gloss=for-the-sake-of|Orig=aṭhāy[e]
 
 # sent_id = kalsi-1-7
 # text = se idāni yadā iyaṃ dhaṃma-lipi lekhitā tadā tiṃni yevā pānāni alabhiyaṃti duve majūlā eke mige se pi cū mige no dhruve
@@ -1250,7 +1250,7 @@
 14	arabhisu	arabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Orig=[arabh]isu
 15-16	supathraye	_	_	_	_	_	_	_	_
 15	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	_
-16	athraye	athra	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Orig=a[thra]ye
+16	athraye	athra	ADP	_	_	15	case	_	Orig=a[thra]ye
 
 # sent_id = mansehra-1-7
 # text = se da ayi dhrama-dipi likhita tada tini yeva praṇani arabhiyaṃti duve majura eke mrige se pi cu mrige no dhruvam
@@ -1385,7 +1385,7 @@
 14	ālabhiyisu	ālabhaya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 15-16	sūpaṭhāye	_	_	_	_	_	_	_	_
 15	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
-16	aṭhāye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Gloss=for-the-sake-of|Orig=[ṭh]āye
+16	aṭhāye	aṭha	ADP	_	_	15	case	_	Gloss=for-the-sake-of|Orig=[ṭh]āye
 
 # sent_id = jaugada-1-7
 # text = se aja adā iyaṃ dhaṃma-lipī likhitā tiṃni yeva pānāni ālaṃbhiyaṃti duve majūlā eke mige se pi cu mige no dhuvaṃ
