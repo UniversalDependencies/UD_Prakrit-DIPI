@@ -12,18 +12,14 @@ Raw text is sourced from [The Ashoka Project on the Bibliotheca Polyglotta](http
 
 The corpus has been hand-annotated by Aryaman Arora and Adam Farris.
 
-## References
-
-* (citation)
-
 # Changelog
 
-* 2021-11-15 v2.9
+* 2026-11-15 v2.19
   * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.9
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
