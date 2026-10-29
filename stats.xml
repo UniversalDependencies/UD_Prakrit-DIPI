@@ -55,7 +55,7 @@
     <feat name="Person" value="1" upos="PRON">2</feat><!-- mama, mayā -->
     <feat name="Person" value="3" upos="VERB">44</feat><!-- asti, dakhati, nāsti, athi, kāsati, āha, ahati, aho, alabhiyaṃti, alaṃbhiyisu -->
     <feat name="Polarity" value="Neg" upos="ADV,PART">25</feat><!-- no, na -->
-    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">41</feat><!-- iyaṃ, idaṃ, ayaṃ, etāya, se, aya, ayi, esa, etāni, so -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">42</feat><!-- iyaṃ, idaṃ, ayaṃ, etāya, se, aya, ayi, esa, etāni, so -->
     <feat name="PronType" value="Ind" upos="DET,PRON">19</feat><!-- bahuka, bahukaṃ, ekatiyā, kichi, kici, añe, añāni, añāya, bahu, bahukā -->
     <feat name="PronType" value="Prs" upos="DET,PRON">15</feat><!-- te, mayā, so, mama, me, yo -->
     <feat name="PronType" value="Rel" upos="ADV,PRON">11</feat><!-- ye, ya, yo, da, yāni -->

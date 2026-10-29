@@ -544,7 +544,7 @@
 2	athāya	atha	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
 3	idaṃ	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	Orig=ida[ṃ]
 4	lekhāpitaṃ	lekhāpaya	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	_
-5	imasa	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	6	det	_	_
+5	imasa	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Gloss=this
 6	athasa	atha	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Orig=atha[sa]
 7	vadhi	vadhi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	Orig=v[a]dhi
 8	yujaṃtu	yuja	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
