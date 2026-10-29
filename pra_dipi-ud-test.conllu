@@ -785,7 +785,7 @@
 4	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	5	compound	_	_
 5	lipī	lipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
 6	likhitā	lekha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-7	...	_	_	_	_	6	orphan	_	_
+7	...	...	X	_	_	6	orphan	_	_
 
 # sent_id = shahbazgarhi-1-1
 # text = aya dhrama-dipi Devanapriasa raño likhapitu
