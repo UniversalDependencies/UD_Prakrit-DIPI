@@ -523,7 +523,7 @@
 3	pi	pi	ADV	_	_	5	discourse	_	_
 4	na	na	ADV	_	Polarity=Neg	5	advmod	_	_
 5	bhavati	bhava	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Orig=[bha]vati
-6	asīlasa	asīla	ADJ	_	Case=Gen|Gender=Nom|Number=Sing	5	obl	_	_
+6	asīlasa	asīla	ADJ	_	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	_
 
 # sent_id = girnar-4-9
 # text = ta imamhi athamhi vadhī ca ahīnī ca sādhu
@@ -891,7 +891,7 @@
 6	dipi	dipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Gloss=rescript
 7	likhita	likha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	Gloss=is-written
 8	tada	tada	ADV	_	PronType=Dem	12	advmod:tmod	_	Gloss=then
-9	trayo	trayas	NUM	_	Case=Num|Gender=Masc|NumType=Card	11	nummod	_	Gloss=three
+9	trayo	trayas	NUM	_	Case=Nom|Gender=Masc|NumType=Card	11	nummod	_	Gloss=three
 10	vo	vo	PART	_	_	9	advmod:emph	_	Gloss=only
 11	praṇa	praṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	obj	_	Gloss=animals
 12	haṃñaṃti	haṃña	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=haṃñaṃt[i]
@@ -981,7 +981,7 @@
 7	ca	ca	CCONJ	_	_	6	cc	_	_
 8	yatra	yatra	SCONJ	_	_	10	mark	_	Orig=yat[r]a
 9	yatra	yatra	SCONJ	_	_	10	mark	_	_
-10	nāsti	nās	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
+10	nāsti	nās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
 11	savatra	savatra	ADV	_	AdvType=Loc	12	advmod:lmod	_	_
 12	harapita	harapaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	_
 13	ca	ca	CCONJ	_	_	12	cc	_	_
@@ -1129,7 +1129,7 @@
 5-6	dhaṃma-lipi	_	_	_	_	_	_	_	_
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality
 6	lipi	lipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Gloss=rescript
-7	lekhitā	lekha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Caus,Pass	12	advcl	_	Gloss=is-caused-to-be-written
+7	lekhitā	lekha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	12	advcl	_	Gloss=is-caused-to-be-written
 8	tadā	tadā	ADV	_	PronType=Dem	12	advmod:tmod	_	Gloss=then
 9	tiṃni	tiṃni	NUM	_	NumType=Card	11	nummod	_	Gloss=three
 10	yevā	yevā	PART	_	_	9	advmod:emph	_	Gloss=only
@@ -1261,7 +1261,7 @@
 4-5	dhrama-dipi	_	_	_	_	_	_	_	_
 4	dhrama	dhrama	NOUN	_	Compound=Yes|Gender=Masc	5	compound	_	_
 5	dipi	dipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obj	_	_
-6	likhita	likha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Caus,Pass	11	advcl	_	Orig=likhi[ta]
+6	likhita	likha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	11	advcl	_	Orig=likhi[ta]
 7	tada	tada	ADV	_	PronType=Dem	11	advmod	_	Orig=ta[da]
 8	tini	tini	NUM	_	NumType=Card	10	nummod	_	Orig=ti[ni]
 9	yeva	yeva	PART	_	_	8	advmod:emph	_	Orig=y[eva]
@@ -1398,10 +1398,10 @@
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality
 6	lipī	lipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Gloss=rescript
 7	likhitā	likha	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	Gloss=is-written
-8	tiṃni	tiṃni	NUM	_	Case=Num|Gender=Neut|NumType=Card	10	nummod	_	Gloss=three
+8	tiṃni	tiṃni	NUM	_	Case=Nom|Gender=Neut|NumType=Card	10	nummod	_	Gloss=three
 9	yeva	yeva	PART	_	_	8	advmod:emph	_	Gloss=only
 10	pānāni	pāna	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	Gloss=animals
-11	ālaṃbhiyaṃti	ālaṃbhiya	VERB	_	Mood=Plur|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=āla[ṃ]bhiyaṃti
+11	ālaṃbhiyaṃti	ālaṃbhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=are-being-killed|Orig=āla[ṃ]bhiyaṃti
 12	duve	duva	NUM	_	Case=Nom|Gender=Masc|NumType=Card	13	nummod	_	Gloss=two
 13	majūlā	majūla	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	parataxis	_	Gloss=peacocks
 14	eke	eka	NUM	_	Case=Nom|Gender=Masc|NumType=Card	15	nummod	_	Gloss=one
@@ -1420,7 +1420,7 @@
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Gloss=even
 3	cu	cu	CCONJ	_	_	1	cc	_	Gloss=but
 4	tiṃni	tiṃni	NUM	_	Case=Nom|Gender=Neut|NumType=Card	5	nummod	_	Gloss=three
-5	pānāni	pāna	NOUN	_	Polarity=Neg	8	obj	_	Gloss=animals
+5	pānāni	pāna	NOUN	_	_	8	obj	_	Gloss=animals
 6	pachā	pachā	ADV	_	AdvType=Tim	8	advmod:tmod	_	Gloss=in-future
 7	no	no	PART	_	Polarity=Neg	8	advmod:neg	_	Gloss=not
 8	ālabhiyisaṃti	ālabhiya	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed|āla[bh]iyisaṃti
