@@ -165,7 +165,7 @@
 25	Aṃtiyakasa	Aṃtiyaka	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	Gloss=of-Antiyaka|Orig=Aṃtiy[a]kas[a]
 26	sāmīpaṃ	sāmīpa	ADJ	_	_	28	acl:relcl	_	Gloss=neighbour|Orig=sāmīp[aṃ]
 27	rājāno	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Plural	10	conj	_	Gloss=kings
-28	sarvatra	sarvatra	NOUN	_	AdvType=Loc	36	advmod:lmod	_	Gloss=everywhere
+28	sarvatra	sarvatra	ADV	_	AdvType=Loc	36	advmod:lmod	_	Gloss=everywhere
 29-30	Devānaṃpriyasa	_	_	_	_	_	_	_	_
 29	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	30	nmod	_	Gloss=Devānam
 30	priyasa	priya	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	33	nmod:desc	_	Gloss=Priya
@@ -296,7 +296,7 @@
 # text = sādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-samaṇānaṃ sādhu dānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
 # orig = [s]ādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-/samaṇānaṃ sādh[u d]ānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
 1	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Orig=[s]ādhu
-2	matari	matar	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+2	matari	matar	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
 3	ca	ca	CCONJ	_	_	2	cc	_	_
 4	pitari	pitar	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	2	conj	_	_
 5	ca	ca	CCONJ	_	_	4	cc	_	_
