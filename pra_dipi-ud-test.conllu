@@ -1023,7 +1023,7 @@
 1	badaya	badaya	NUM	_	Compound=Yes|NumType=Card	2	nummod	_	_
 2	vaśa	vaśa	NOUN	_	Compound=Yes|Gender=Masc	3	obl:tmod	_	_
 3	abhisitena	abhisiñca	VERB	_	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	orphan	_	Orig=abh[i]si[tena]
-4	...	_	X	_	_	5	orphan	_	_
+4	......	...	X	_	_	5	orphan	_	_
 5	aṇapitaṃ	aṇa	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Orig=[a]ṇapi[taṃ]
 
 # sent_id = kalsi-1-1
@@ -1211,7 +1211,7 @@
 # sent_id = mansehra-1-5
 # text = astipi cu ekatiya samaja sadhu-mata Devanapriyasa Priyadraśisa rajine
 # orig = asti[pi cu] / [eka]tiya samaja sa[dhu]-mata Devanapriyasa Priyadraśi[sa] rajine
-1	asti	as	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	asti	as	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	pi	pi	ADV	_	_	1	advmod:emph	_	Orig=[pi]
 3	cu	cu	CCONJ	_	_	1	cc	_	Orig=[cu]
 4	ekatiya	ekatiya	DET	_	PronType=Ind	5	det	_	Orig=[eka]tiya
