@@ -30,7 +30,7 @@
     <tag name="X">15</tag><!-- ..., _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="44">
+  <feats unique="43">
     <feat name="AdvType" value="Loc" upos="ADV">14</feat><!-- sarvata, hida, savratra, hidā, idha, sarvatra, sarvatrā, savatra -->
     <feat name="AdvType" value="Man" upos="ADV">13</feat><!-- sādhu, dhruvam, dhruvaṃ, dhruve, dhruvo, dhuvaṃ, hetuto, sadhu, sasu, tathā -->
     <feat name="AdvType" value="Tim" upos="ADV">15</feat><!-- aja, pura, paca, pachā, idani, idāni, pule, puluvaṃ -->
@@ -39,8 +39,7 @@
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,VERB">57</feat><!-- idaṃ, atikataṃ, aṃtaraṃ, bahuka, bahukaṃ, bahuni, bahūni, caraṇaṃ, dosaṃ, pānāni -->
     <feat name="Case" value="Dat" upos="NOUN,PRON">17</feat><!-- athāya, etāya, adhisṭānāya, anusastiya, aparigodhāya, añāya, imāya, kaṃmāya, me, paribhogāya -->
     <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN">113</feat><!-- devānaṃ, priyasa, dasino, rāño, draśisa, devana, devanaṃ, lājine, raño, piyasa -->
-    <feat name="Case" value="Ins" upos="ADJ,NOUN,NUM,PRON,VERB">21</feat><!-- abhisitena, dasinā, mayā, priyena, anusasṭiyā, bahūhi, caraṇena, draśina, rajina, rāña -->
-    <feat name="Case" value="Inst" upos="ADJ,NOUN">7</feat><!-- piyena, dasinā, lājina, lājinā, nā, priyena -->
+    <feat name="Case" value="Ins" upos="ADJ,NOUN,NUM,PRON,VERB">28</feat><!-- abhisitena, dasinā, mayā, priyena, piyena, anusasṭiyā, bahūhi, caraṇena, draśina, lājina -->
     <feat name="Case" value="Loc" upos="ADJ,NOUN,NUM,PRON,PROPN">36</feat><!-- mahanasasi, mahānasasi, pavatasi, paṃcasu, pitari, vijite, Khepiṃgalasi, Pāṭalipute, athamhi, aṃñe -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">274</feat><!-- rājā, sādhu, te, ye, dasi, dipi, lipī, mige, priyo, so -->
     <feat name="Case" value="Num" upos="NUM">2</feat><!-- tiṃni, trayo -->

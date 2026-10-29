@@ -1035,7 +1035,7 @@
 3	lipi	lipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	Gloss=rescript
 4-5	Devānaṃpiyena	_	_	_	_	_	_	_	_
 4	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Gloss=of-the-Gods
-5	piyena	piya	ADJ	_	Case=Inst|Gender=Masc|Number=Sing	7	nmod:desc	_	Gloss=beloved
+5	piyena	piya	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	7	nmod:desc	_	Gloss=beloved
 6-7	Piyadasinā	_	_	_	_	_	_	_	_
 6	piya	piya	ADJ	_	Compound=Yes|Gender=Masc	7	amod	_	Gloss=friendly
 7	dasinā	dasin	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	nsubj	_	Gloss=looking|Orig=das[i]nā
@@ -1166,7 +1166,7 @@
 3	dipi	dipi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	Orig=dip[i]
 4-5	Devanaṃpriyena	_	_	_	_	_	_	_	_
 4	devanam	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
-5	priyena	priya	ADJ	_	Case=Inst|Gender=Masc|Number=Sing	8	nmod:desc	_	Orig=[priye]na
+5	priyena	priya	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	nmod:desc	_	Orig=[priye]na
 6-7	Priyadraśina	_	_	_	_	_	_	_	_
 6	priya	priya	ADJ	_	Compound=Yes|Gender=Masc	7	amod	_	_
 7	draśina	draśin	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	nmod:desc	_	Orig=[draśina]
@@ -1301,11 +1301,11 @@
 5	pavatasi	pavata	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	Gloss=on-mountain
 6-7	Devānaṃpiyena	_	_	_	_	_	_	_	_
 6	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Gloss=of-the-Gods
-7	piyena	piya	ADJ	_	Case=Inst|Gender=Masc|Number=Sing	10	nmod:desc	_	Gloss=beloved
+7	piyena	piya	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	10	nmod:desc	_	Gloss=beloved
 8-9	Piyadasinā	_	_	_	_	_	_	_	_
 8	piya	piya	ADJ	_	Compound=Yes|Gender=Masc	9	amod	_	Gloss=friendly
-9	dasinā	dasin	ADJ	_	Case=Inst|Gender=Masc|Number=Sing	10	nmod:desc	_	Gloss=looking
-10	lājinā	lājan	NOUN	_	Case=Inst|Gender=Masc|Number=Sing	11	nsubj	_	Gloss=by-king
+9	dasinā	dasin	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	10	nmod:desc	_	Gloss=looking
+10	lājinā	lājan	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	11	nsubj	_	Gloss=by-king
 11	likhāpitā	likhāpaya	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=has-been-caused-to-be-written
 
 # sent_id = jaugada-1-2
@@ -1435,8 +1435,8 @@
 4	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	Orig=[d]e[v]ā[na]ṃ
 5	piy	piya	ADJ	_	_	8	nmod:desc	_	Orig=p[iy]
 6	...	...	X	_	_	7	orphan	_	_
-7	nā	?	ADJ	_	Case=Inst|Gender=Masc|Number=Sing	8	nmod:desc	_	Orig=[nā]
-8	lājina	lājan	NOUN	_	Case=Inst|Gender=Masc|Number=Sing	9	nsubj	_	Orig=[lājina]
+7	nā	?	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	8	nmod:desc	_	Orig=[nā]
+8	lājina	lājan	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	9	nsubj	_	Orig=[lājina]
 9	likha	likha	VERB	_	_	0	root	_	Orig=[l]i[kha]
 10	...	...	X	_	_	9	orphan	_	_
 
