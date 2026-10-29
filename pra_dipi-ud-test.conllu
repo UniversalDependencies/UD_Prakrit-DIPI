@@ -187,7 +187,7 @@
 # sent_id = girnar-2-2
 # text = osuḍhāni ca yāni manusopagāni ca pasopagāni ca yata yata nāsti sarvatrā hārāpitāni ca ropāpitāni ca
 # orig = osuḍhāni ca yāni m[a]nusopagān[i] ca / paso[pa]gāni ca yata yata nāsti sarvatrā hārāpitāni ca ropāpitāni ca
-1	osuḍhāni	osuḍha	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	Gloss=herbs
+1	osuḍhāni	osuḍha	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	Gloss=herbs
 2	ca	ca	CCONJ	_	_	1	cc	_	Gloss=and
 3	yāni	ya	PRON	_	PronType=Rel	5	nsubj	_	Gloss=that
 4-5	manusopagāni	_	_	_	_	_	_	_	_
@@ -199,7 +199,7 @@
 8	upagāni	upaga	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	5	conj	_	Gloss=beneficial-to|Orig=[pa]gāni
 9	ca	ca	CCONJ	_	_	8	cc	_	Gloss=and
 10	yata	yata	SCONJ	_	PronType=Rel	12	mark	_	Gloss=where
-11	yata	yata	SCONJ	_	PronType=Rel	10	compound:redup	_	Gloss=where
+11	yata	yata	SCONJ	_	PronType=Rel	12	mark	_	Gloss=where
 12	nāsti	nās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Gloss=are-no
 13	sarvatrā	sarvatra	ADV	_	AdvType=Loc	14	advmod:lmod	_	Gloss=everywhere
 14	hārāpitāni	hārāpaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=caused-to-be-imported
@@ -215,7 +215,7 @@
 3	phalāni	phala	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	conj	_	Gloss=fruits
 4	ca	ca	CCONJ	_	_	3	cc	_	Gloss=and
 5	yata	yata	SCONJ	_	PronType=Rel	7	mark	_	Gloss=where
-6	yatra	yatra	SCONJ	_	PronType=Rel	5	compound:redup	_	Gloss=where
+6	yatra	yatra	SCONJ	_	PronType=Rel	7	mark	_	Gloss=where
 7	nāsti	nās	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Gloss=were-not
 8	sarvata	sarvata	ADV	_	AdvType=Loc	9	advmod:lmod	_	Gloss=everywhere
 9	hārāpitāni	hārāpaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=caused-to-be-imported
@@ -980,7 +980,7 @@
 6	upakani	upaka	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	_
 7	ca	ca	CCONJ	_	_	6	cc	_	_
 8	yatra	yatra	SCONJ	_	PronType=Rel	10	mark	_	Orig=yat[r]a
-9	yatra	yatra	SCONJ	_	PronType=Rel	8	compound:redup	_	_
+9	yatra	yatra	SCONJ	_	PronType=Rel	10	mark	_	_
 10	nāsti	nās	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
 11	savatra	savatra	ADV	_	AdvType=Loc	12	advmod:lmod	_	_
 12	harapita	harapaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	_
