@@ -95,9 +95,9 @@
 # sent_id = girnar-1-7
 # text = se aja yadā ayaṃ dhaṃma-lipī likhitā tī eva prāṇā ārabhare sūpāthāya dvo morā eko mago so pi mago na dhruvo
 # orig = / se aja yadā ayaṃ dha[ṃ]ma-lip[ī] likhitā tī eva prā/ṇā ārabhare sūpāthāya dvo morā eko mago so pi / mago na dhruvo
-1	se	sa	CCONJ	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Prs	11	cc	_	Gloss=but
+1	se	sa	CCONJ	_	_	11	cc	_	Gloss=but
 2	aja	aja	ADV	_	AdvType=Tim	11	advmod:tmod	_	Gloss=today
-3	yadā	yadā	SCONJ	_	PronType=Rel	7	mark	_	Gloss=when
+3	yadā	yadā	SCONJ	_	_	7	mark	_	Gloss=when
 4	ayaṃ	ayaṃ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	Gloss=this
 5-6	dhaṃma-lipī	_	_	_	_	_	_	_	_
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality|Orig=dha[ṃ]ma
@@ -199,8 +199,8 @@
 7	pasu	pasu	NOUN	_	Compound=Yes|Gender=Masc	8	nmod	_	Gloss=cattle
 8	upagāni	upaga	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	5	conj	_	Gloss=beneficial-to|Orig=[pa]gāni
 9	ca	ca	CCONJ	_	_	8	cc	_	Gloss=and
-10	yata	yata	SCONJ	_	PronType=Rel	12	mark	_	Gloss=where
-11	yata	yata	SCONJ	_	PronType=Rel	12	mark	_	Gloss=where
+10	yata	yata	SCONJ	_	_	12	mark	_	Gloss=where
+11	yata	yata	SCONJ	_	_	12	mark	_	Gloss=where
 12	nāsti	nās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	Gloss=are-no
 13	sarvatrā	sarvatra	ADV	_	AdvType=Loc	14	advmod:lmod	_	Gloss=everywhere
 14	hārāpitāni	hārāpaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=caused-to-be-imported
@@ -215,8 +215,8 @@
 2	ca	ca	CCONJ	_	_	1	cc	_	Gloss=and
 3	phalāni	phala	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	1	conj	_	Gloss=fruits
 4	ca	ca	CCONJ	_	_	3	cc	_	Gloss=and
-5	yata	yata	SCONJ	_	PronType=Rel	7	mark	_	Gloss=where
-6	yatra	yatra	SCONJ	_	PronType=Rel	7	mark	_	Gloss=where
+5	yata	yata	SCONJ	_	_	7	mark	_	Gloss=where
+6	yatra	yatra	SCONJ	_	_	7	mark	_	Gloss=where
 7	nāsti	nās	VERB	_	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Gloss=were-not
 8	sarvata	sarvata	ADV	_	AdvType=Loc	9	advmod:lmod	_	Gloss=everywhere
 9	hārāpitāni	hārāpaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	Gloss=caused-to-be-imported
@@ -884,7 +884,7 @@
 # orig = s[o i]dani yada aya dhrama-dipi likhita tada trayo vo praṇa haṃñaṃt[i] majura duv[i] / mrugo so pi mrugo no dhruva[ṃ]
 1	so	sa	CCONJ	_	_	12	cc	_	Gloss=but|Orig=s[o]
 2	idani	idani	ADV	_	AdvType=Tim	12	advmod:tmod	_	Gloss=now|Orig=[i]dani
-3	yada	yada	SCONJ	_	PronType=Rel	7	mark	_	Gloss=when
+3	yada	yada	SCONJ	_	_	7	mark	_	Gloss=when
 4	aya	aya	DET	_	PronType=Dem	6	det	_	Gloss=this
 5-6	dhrama-dipi	_	_	_	_	_	_	_	_
 5	dhrama	dhrama	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality
@@ -979,8 +979,8 @@
 5	paśu	paśu	NOUN	_	Compound=Yes|Gender=Masc	6	nmod	_	_
 6	upakani	upaka	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	_
 7	ca	ca	CCONJ	_	_	6	cc	_	_
-8	yatra	yatra	SCONJ	_	PronType=Rel	10	mark	_	Orig=yat[r]a
-9	yatra	yatra	SCONJ	_	PronType=Rel	10	mark	_	_
+8	yatra	yatra	SCONJ	_	_	10	mark	_	Orig=yat[r]a
+9	yatra	yatra	SCONJ	_	_	10	mark	_	_
 10	nāsti	nās	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	_
 11	savatra	savatra	ADV	_	AdvType=Loc	12	advmod:lmod	_	_
 12	harapita	harapaya	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Cau,Pass	0	root	_	_
@@ -1124,7 +1124,7 @@
 # orig = se i[d]āni ya[dā] iyaṃ dhaṃma-lipi lekhitā tadā tiṃni yevā pānāni alabhi[yaṃ]ti / duve majūl[ā] eke mige se pi [cū] mige no dhruve
 1	se	sa	CCONJ	_	_	12	cc	_	Gloss=but
 2	idāni	idāni	ADV	_	AdvType=Tim	12	advmod:tmod	_	Gloss=now|Orig=i[d]āni
-3	yadā	yadā	SCONJ	_	PronType=Rel	7	mark	_	Gloss=when|Orig=ya[dā]
+3	yadā	yadā	SCONJ	_	_	7	mark	_	Gloss=when|Orig=ya[dā]
 4	iyaṃ	iyaṃ	DET	_	PronType=Dem	6	det	_	Gloss=this
 5-6	dhaṃma-lipi	_	_	_	_	_	_	_	_
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality
@@ -1392,7 +1392,7 @@
 # orig = se aja adā iyaṃ dhaṃma-lipī likhitā tiṃni yeva pānāni āla[ṃ]bhiyaṃti duve majūlā eke mige se pi cu mige no dhuvaṃ
 1	se	sa	CCONJ	_	_	11	cc	_	Gloss=but
 2	aja	aja	ADV	_	AdvType=Tim	11	advmod:tmod	_	Gloss=now
-3	adā	adā	SCONJ	_	PronType=Rel	7	mark	_	Gloss=when
+3	adā	adā	SCONJ	_	_	7	mark	_	Gloss=when
 4	iyaṃ	idaṃ	DET	_	PronType=Dem	6	det	_	Gloss=this
 5-6	dhaṃma-lipī	_	_	_	_	_	_	_	_
 5	dhaṃma	dhaṃma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	Gloss=morality
