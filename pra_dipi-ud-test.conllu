@@ -1114,7 +1114,7 @@
 11-12	pāta-sahasāni	_	_	_	_	_	_	_	_
 11	pāta	pāta	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	Gloss=animal
 12	sahasāni	sahasa	NUM	_	Case=Nom|Gender=Masc|NumType=Card|Number=Plur	13	obj	_	Gloss=hundred-thousands-of
-13	alaṃbhiyisu	alaṃbhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbFrom=Fin|Voice=Pass	0	root	_	Gloss=were-killed
+13	alaṃbhiyisu	alaṃbhiya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 14-15	supaṭhāye	_	_	_	_	_	_	_	_
 14	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	13	obl	_	Gloss=curry
 15	aṭhāye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	14	case	_	Gloss=for-the-sake-of|Orig=aṭhāy[e]
@@ -1206,7 +1206,7 @@
 7	priya	priya	ADJ	_	Compound=Yes|Gender=Masc	8	amod	_	_
 8	draśi	draśin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	nmod:desc	_	_
 9	raja	rajan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
-10	dakhati	dakha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbFrom=Fin|Voice=Act	0	root	_	Orig=[da]kha[ti]
+10	dakhati	dakha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Orig=[da]kha[ti]
 
 # sent_id = mansehra-1-5
 # text = astipi cu ekatiya samaja sadhu-mata Devanapriyasa Priyadraśisa rajine
@@ -1247,7 +1247,7 @@
 11	praṇa	praṇa	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	_
 12	śata	śata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Orig=śa[ta]
 13	sahasrani	sahasra	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Orig=sahas[r]ani
-14	arabhisu	arabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbFrom=Fin|Voice=Pass	0	root	_	Orig=[arabh]isu
+14	arabhisu	arabha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Orig=[arabh]isu
 15-16	supathraye	_	_	_	_	_	_	_	_
 15	supa	supa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	_
 16	athraye	athra	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Orig=a[thra]ye
@@ -1334,7 +1334,7 @@
 2	hi	hi	PART	_	_	1	advmod:emph	_	Gloss=for
 3	dosaṃ	dosa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Gloss=evil
 4	samājasa	samāja	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl:lmod	_	Gloss=festival-meetings
-5	drakhati	drakha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbFrom=Fin|Voice=Act	0	root	_	Gloss=sees
+5	drakhati	drakha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=sees
 6-7	Devānaṃpiye	_	_	_	_	_	_	_	_
 6	devānaṃ	deva	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	Gloss=of-the-Gods
 7	piye	piya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	nmod:desc	_	Gloss=beloved
@@ -1382,7 +1382,7 @@
 11	pana	pana	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	Gloss=living
 12	sata	sata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Gloss=being
 13	sahasāni	sahasa	NUM	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	Gloss=hundred-thousands-of|Orig=sah[a]sāni
-14	ālabhiyisu	ālabhaya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbFrom=Fin|Voice=Pass	0	root	_	Gloss=were-killed
+14	ālabhiyisu	ālabhaya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
 15-16	sūpaṭhāye	_	NUM	_	_	_	_	_	_
 15	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
 16	aṭhāye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Gloss=for-the-sake-of|Orig=[ṭh]āye
