@@ -1286,8 +1286,8 @@
 3	cu	cu	CCONJ	_	_	1	cc	_	_
 4	tini	tini	NUM	_	Case=Nom|Gender=Masc|NumType=Card	5	nummod	_	Orig=[tini]
 5	praṇani	praṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plural	8	obj	_	_
-6	paca	paca	ADV	_	AdvType=Tim	7	advmod	_	_
-7	no	no	PART	_	Polarity=Neg	7	advmod	_	_
+6	paca	paca	ADV	_	AdvType=Tim	8	advmod:tmod	_	_
+7	no	no	PART	_	Polarity=Neg	8	advmod:neg	_	_
 8	arabhi	arabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Orig=ara[bhi]
 
 # sent_id = jaugada-1-1
