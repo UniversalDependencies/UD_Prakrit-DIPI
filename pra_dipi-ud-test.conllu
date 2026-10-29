@@ -180,6 +180,7 @@
 37	manusa	manusa	NOUN	_	Compound=Yes|Gender=Masc	38	nmod	_	Gloss=man
 38	cīkichā	cīkicha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	35	appos	_	Gloss=medical-treatment
 39	ca	ca	CCONJ	_	_	38	cc	_	Gloss=and
+40-41	pasu-cikīchā	_	_	_	_	_	_	_	_
 40	pasu	pasu	NOUN	_	Compound=Yes|Gender=Masc	41	nmod	_	Gloss=cattle
 41	cikīchā	cīkicha	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	38	conj	_	Gloss=medical-treatment
 42	ca	ca	CCONJ	_	_	41	cc	_	Gloss=and
@@ -293,7 +294,7 @@
 24	kaṃmāya	kaṃma	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	20	conj	_	Orig=kaṃmāy[a]
 
 # sent_id = girnar-3-4
-# text = sādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-samaṇānaṃ sādhu dānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
+# text = sādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-samaṇānaṃ sādhu dānaṃ prāṇānaṃ sādhu anāraṃbho apavyayatā apabhāḍatā sādhu
 # orig = [s]ādhu matari ca pitari ca susrūsā mitra-saṃstuta-ñātīnaṃ bāmhaṇa-/samaṇānaṃ sādh[u d]ānaṃ prāṇānaṃ sādhu anārambho apavyayatā apabhāḍatā sādhu
 1	sādhu	sādhu	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Orig=[s]ādhu
 2	matari	matar	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	6	nmod	_	_
@@ -502,7 +503,7 @@
 23	anusāsisaṃti	anusāsa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	conj	_	_
 
 # sent_id = girnar-4-7
-# text = esa hi sesṭe kamme ya dhaṃmānusāsanaṃ
+# text = esa hi sesṭe kaṃme ya dhaṃmānusāsanaṃ
 # orig = / [e]sa hi sesṭe kamme ya dhaṃmānusāsanaṃ
 1	esa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Orig=[e]sa
 2	hi	hi	ADV	_	_	4	discourse	_	_
@@ -553,7 +554,7 @@
 12	locetavyā	loca	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Future|VerbForm=Part|Voice=Pass	8	conj	_	_
 
 # sent_id = girnar-4-11
-# text = dbadasa-vāsābhisitena Devānaṃpriyena Priyadasinā rāñā idam lekhapitam
+# text = dbādasa-vāsābhisitena Devānaṃpriyena Priyadasinā rāñā idam lekhapitam
 # orig = dbadasa-vāsābhisitena Devān[a]ṃpriyena Priyadasinā rāñ[ā] idam lekhapitam
 1-3	dbādasa-vāsābhisitena	_	_	_	_	_	_	_	_
 1	dbādasa	dbādasa	NUM	_	Compound=Yes|NumType=Card	2	nummod	_	_
@@ -610,7 +611,7 @@
 # sent_id = girnar-5-5
 # text = ta mama putā ca potā ca paraṃ ca tena ya me apacaṃ āva saṃvaṭa-kapā anuvatisare tathā so sukataṃ kāsati
 # orig = t[a] mama putā ca potā ca paraṃ ca tena y[a] me [a]pacaṃ āva saṃvaṭa-kapā anuvatisare tathā / so sukataṃ kāsati
-1	t[a]	ta	ADV	_	_	20	advmod	_	Gloss=therefore
+1	ta	ta	ADV	_	_	20	advmod	_	Gloss=therefore
 2	mama	ma	PRON	_	Case=Gen|Number=Sing|PronType=Prs	3	nmod	_	Gloss=my
 3	putā	puta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	Gloss=sons
 4	ca	ca	CCONJ	_	_	3	cc	_	Gloss=and
@@ -619,9 +620,9 @@
 7	paraṃ	paraṃ	ADP	_	_	9	case	_	Gloss=beyond
 8	ca	ca	CCONJ	_	_	12	cc	_	Gloss=and
 9	tena	ta	PRON	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	12	acl:relcl	_	Gloss=that
-10	y[a]	ya	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Gloss=who
+10	ya	ya	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Gloss=who
 11	me	ayaṃ	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	Gloss=my
-12	[a]pacaṃ	apaca	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=offspring
+12	apacaṃ	apaca	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	Gloss=offspring
 13	āva	āva	ADP	_	_	15	case	_	Gloss=until
 14-15	saṃvaṭa-kapā	_	_	_	_	_	_	_	Gloss=end-of-cosmic-cycle
 14	saṃvaṭa	saṃvaṭa	NOUN	_	Compound=Yes|Gender=Masc	15	compound	_	_
@@ -642,7 +643,7 @@
 5	pi	pi	ADV	_	_	4	discourse	_	_
 6	hāpesati	hāpesa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 7	so	so	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	9	nsubj	_	_
-8	[du]kataṃ	dukata	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+8	dukataṃ	dukata	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
 9	kāsati	kāsa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = girnar-5-7
@@ -650,7 +651,7 @@
 # orig = sukaraṃ hi pāpa[ṃ]
 1	sukaraṃ	sukara	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 2	hi	hi	PART	_	_	3	discourse	_	_
-3	pāpa[ṃ]	pāpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	pāpaṃ	pāpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 
 # sent_id = girnar-5-8
 # text = atikataṃ aṃtaraṃ na bhūta-pruvaṃ dhaṃma-mahāmātā nāma
@@ -692,7 +693,7 @@
 5	dhāma	dhāma	NOUN	_	Compound=Yes|Gender=Masc	6	compound	_	_
 6	adhisṭānāya	adhisṭāna	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
 7	...	_	X	_	_	6	orphan	_	_
-8-9	dhamma-yutasa	_	_	_	_	_	_	_	Orig=[dha]mma-yutasa
+8-9	dhaṃma-yutasa	_	_	_	_	_	_	_	Orig=[dha]mma-yutasa
 8	dhamma	dhamma	NOUN	_	Compound=Yes|Gender=Masc	9	compound	_	Orig=[dha]mma
 9	yutasa	yuta	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
 10	ca	ca	CCONJ	_	_	9	cc	_	_
@@ -712,7 +713,6 @@
 8	pi	pi	ADV	_	_	6	discourse	_	_
 9	aṃñe	aṃña	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	10	amod	_	Orig=a[ṃ]ñ[e]
 10	āparātā	aparāta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	acl:relcl	_	Orig=[ā]parātā
-11-12	bhatamayesu	_	_	_	_	_	_	_	_
 11	bhata	bhata	NOUN	_	Compound=Yes|Gender=Masc	12	conj	_	_
 12	mayesu	maya	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	_
 13	vā	vā	CCONJ	_	_	12	cc	_	_
@@ -916,7 +916,7 @@
 7	arabhiśaṃti	arabha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=shall-be-killed
 
 # sent_id = shahbazgarhi-2-1
-# text = savratra vijite Devanaṃpriyasa Priyadraśisa ye ca aṃta yathā Coḍa Paṃḍiya Satiyaputro Keraḍaputro Taṃbapaṃṇī Aṃtiyoko nāma Yona-raja ye ca aṃñe tasa Aṃtiyokasa samaṃta rajano savratra Devanaṃpriyasa Priyadraśisa raño duvi cikisa kriṭa manusa-cikisa .. paśu-cikisa ca
+# text = savratra vijite Devanaṃpriyasa Priyadraśisa ye ca aṃta yathā Coḍa Paṃḍiya Satiyaputro Keraḍaputro Taṃbapaṃṇī Aṃtiyoko nāma Yona-raja ye ca aṃñe tasa Aṃtiyokasa samaṃta rajano savratra Devanaṃpriyasa Priyadraśisa raño duvi cikisa kriṭa manusa-cikisa ... paśu-cikisa ca
 # orig = sav[r]atra vijite [De]va[naṃ]priyasa Priyadraśisa y[e] ca [a]ṃta yathā [Coḍa] Paṃḍiya Satiyaputro Keraḍaputro Taṃbapaṃṇī Aṃtiyo[k]o nāma Yona-raja ye ca aṃñe tasa Aṃtiyokasa samaṃta rajano savratra Devanaṃpriyasa Priyadraśisa raño du[vi] cik[i]sa [kr]i[ṭa] manusa-cikisa .. pa[śu-c]ikisa [ca]
 1	savratra	savratra	ADV	_	AdvType=Loc	36	advmod:lmod	_	Orig=sav[r]atra
 2	vijite	vijita	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	_
