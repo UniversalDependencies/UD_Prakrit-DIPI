@@ -870,7 +870,7 @@
 8	anu	anu	DET	_	PronType=Tot	9	det	_	Gloss=every
 9	divaso	divasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obl:tmod	_	Gloss=day
 10	bahuni	bahu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	Gloss=many
-11-13	praṇa-sata-sahasani	_	_	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+11-13	praṇa-sata-sahasani	_	_	_	_	_	_	_	_
 11	praṇa	praṇa	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	Gloss=living|Orig=pra[ṇa]
 12	sata	sata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Gloss=being
 13	sahasani	sahasa	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Gloss=hundred-thousands-of
@@ -1243,7 +1243,7 @@
 8	anu	anu	DET	_	PronType=Tot	9	det	_	_
 9	divasa	divasa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obl	_	Orig=diva[sa]
 10	bahuni	bahu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	13	amod	_	Orig=[ba]huni
-11-13	praṇa-śata-sahasrani	_	_	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+11-13	praṇa-śata-sahasrani	_	_	_	_	_	_	_	_
 11	praṇa	praṇa	NOUN	_	Compound=Yes|Gender=Masc	12	compound	_	_
 12	śata	śata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Orig=śa[ta]
 13	sahasrani	sahasra	NUM	_	Case=Acc|Gender=Masc|NumType=Card|Number=Plur	14	obj	_	Orig=sahas[r]ani
@@ -1383,7 +1383,7 @@
 12	sata	sata	NOUN	_	Compound=Yes|Gender=Neut	13	compound	_	Gloss=being
 13	sahasāni	sahasa	NUM	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	Gloss=hundred-thousands-of|Orig=sah[a]sāni
 14	ālabhiyisu	ālabhaya	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=were-killed
-15-16	sūpaṭhāye	_	NUM	_	_	_	_	_	_
+15-16	sūpaṭhāye	_	_	_	_	_	_	_	_
 15	sūpa	sūpa	NOUN	_	Compound=Yes|Gender=Masc	14	obl	_	Gloss=curry
 16	aṭhāye	aṭha	ADP	_	Case=Dat|Gender=Masc|Number=Sing	15	case	_	Gloss=for-the-sake-of|Orig=[ṭh]āye
 
