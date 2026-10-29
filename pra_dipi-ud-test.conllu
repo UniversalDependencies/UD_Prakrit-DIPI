@@ -154,7 +154,7 @@
 15	Ketalaputo	Ketalaputa	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	Gloss=Ketalaputa
 16	ā	ā	ADP	_	_	17	case	_	Gloss=as-far-as
 17	Taṃbapaṃṇī	Taṃbapaṃṇin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	Gloss=Tāmraparṇī
-18	Aṃtiyako	Aṃtiyaka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	Gloss=Antiyaka
+18	Aṃtiyako	Aṃtiyaka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	Gloss=Antiyaka
 19-20	Yona-rājā	_	_	_	_	_	_	_	_
 19	yona	yona	ADJ	_	Compound=Yes|Gender=Masc	20	amod	_	Gloss=Yona
 20	rājā	rājan	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	Gloss=king
@@ -935,7 +935,7 @@
 13	Satiyaputro	Satiyaputra	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
 14	Keraḍaputro	Keraḍaputra	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
 15	Taṃbapaṃṇī	Taṃbapaṃṇin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	_
-16	Aṃtiyoko	Aṃtiyoka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	17	appos	_	Orig=Aṃtiyo[k]o
+16	Aṃtiyoko	Aṃtiyoka	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Orig=Aṃtiyo[k]o
 17	nāma	nāma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nmod	_	_
 18-19	Yona-raja	_	_	_	_	_	_	_	_
 18	yona	yona	PROPN	_	Compound=Yes|Gender=Masc	19	nmod	_	_
