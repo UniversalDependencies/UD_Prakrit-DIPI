@@ -1,0 +1,39 @@
+Running the following version of UD tools:
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 10 13:08:27 2026 +0100
+Evaluating the following revision of UD_Prakrit-DIPI:
+commit 561f5f02a2921037520465f810f9b97ac0c79fac
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu Oct 29 19:41:51 2026 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'pra_dipi'
+Language code (from CoNLL-U file name) = 'pra'
+Found the following data files: pra_dipi-ud-test.conllu
+Size: counted 972 of 972 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 797 out of 972 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 22 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang pra --max-err=10 UD_Prakrit-DIPI/pra_dipi-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
+(weight=0.111111111111111) * (score{udeprels}=0.594594594594595) = 0.0660660660660661
+(TOTAL score=0.392877976015231) * (availability=1) * (validity=1) = 0.392877976015231
+STARS = 2
+UD_Prakrit-DIPI	0.392877976015231	2
